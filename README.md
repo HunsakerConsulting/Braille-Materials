@@ -10,7 +10,7 @@ Available Sites:
 
 [UEB Technical Lessons](https://hunsakerconsulting.github.io/Braille-Materials/LessonPlans-Braille/UEB-Technical) **IN DEVELOPMENT**
 
-[Assistive Technology Lesson Plans](https://hunsakerconsulting.github.io/Braille-Materials/LessonPLans-Technology) **IN PROGRESS**
+[Assistive Technology Lesson Plans](https://hunsakerconsulting.github.io/Braille-Materials/LessonPlans-Technology) **IN PROGRESS**
 
 
 
