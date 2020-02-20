@@ -1,0 +1,1278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pretext>
+    <book>
+        <part>
+            <title>JAWS and NDVA on Windows 10</title>
+            <chapter>
+                <title>Preliminary JAWS Lessons</title>
+                <p>In these lessons, a focus is placed on using keyboard shortcuts. These lessons are meant to review or enhance your current curriculum. An answer key is provided for the teacher. These lessons are best used with a computer running Windows 10 and JAWS. Use the training materials provided by Freedom Scientific to learn JAWS to a greater extent.</p>
+                <section>
+                    <title>JAWS Laptop Layout</title>
+                    <p>When using JAWS, you can choose between using a laptop keyboard layout or a desktop keyboard layout. The keyboard layouts are not quite the same. A laptop keyboard does not usually have a <em>NUMPAD</em> (number pad). So different keystrokes are used</p>
+                    <p>If you have a laptop, you will be changing the keyboard layout to "laptop". The <em>CAPSLOCK</em> key will become a modifier for the <em>INSERT</em> key. This means  that when <em>INSERT</em> is used in a keystroke, the <em>CAPSLOCK</em> can be used to replace the <em>INSERT</em> key. <em>CAPSLOCK</em> is often easier to reach compared with insert. You won't have to move your hands off of homerow to reach <em>CAPSLOCK</em>.</p>
+                    <p>To use the <em>CAPSLOCK</em> key to capitalize all letters, press the key twice quickly. Pressing the <em>CAPSLOCK</em> twice quickly when JAWS is running in laptop keyboard layout will allow you to use <em>CAPSLOCK</em> for its original purpose.</p>
+                    <subsection>
+                        <title>Quiz</title>
+                        <ul>
+                            <li>
+                                <p> What is the difference between many laptop and standard PC keyboards?</p>
+                            </li>
+                            <li>
+                                <p> What key will become a modifier key for the <em>INSERT</em> key?</p>
+                            </li>
+                            <li>
+                                <p> What is a modifier key?</p>
+                            </li>
+                            <li>
+                                <p> If you want to put a word in all caps, what will you do when using the JAWS laptop keyboard layout?}</p>
+                            </li>
+                        </ul>
+                    </subsection>
+                    <subsection>
+                        <title>Tasks</title>
+                        <p>Follow the steps below to practice important JAWS commands.</p>
+                        <ol>
+                            <li>
+                                <p> First, set your keyboard layout to "laptop".</p>
+                                <ul>
+                                    <li>
+                                        <p>
+                                            <em>ALT + TAB</em> to open the JAWS window.</p>
+                                    </li>
+                                    <li>
+                                        <p>
+                                            <em>ALT</em> to jump to the menu bar.</p>
+                                    </li>
+                                    <li>
+                                        <p>
+                                            <em>DOWN ARROW</em> to open the "options" menu.</p>
+                                    </li>
+                                    <li>
+                                        <p>
+                                            <em>DOWN ARROW</em> to "basics".</p>
+                                    </li>
+                                    <li>
+                                        <p> Press <em>ENTER</em>.</p>
+                                    </li>
+                                    <li>
+                                        <p>
+                                            <em>TAB</em> to "use keyboard layout".</p>
+                                    </li>
+                                    <li>
+                                        <p>
+                                            <em>LEFT ARROW</em> or <em>RIGHT ARROW</em> to "laptop".</p>
+                                    </li>
+                                    <li>
+                                        <p> Press <em>ENTER</em>.Pressing enter activates the OK button and saves the changes.</p>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>
+                                <p> You can use keyboard help to get to know the laptop keyboard layout.</p>
+                                <ul>
+                                    <li>
+                                        <p> Press <em>CAPSLOCK</em> + 1. This will toggle keyboard help on or off. Try this now.</p>
+                                    </li>
+                                    <li>
+                                        <p> Practice the <em>JAWS KEYSTROKES</em> listed here while "keyboard help" is on to learn what the keystrokes do.</p>
+                                        <ul>
+                                            <li>
+                                                <p>
+                                                    <em>INSERT + M</em> (remember to use <em>CAPSLOCK</em> as the modifier key if on a laptop)</p>
+                                            </li>
+                                            <li>
+                                                <p>
+                                                    <em>INSERT + , (comma)</em>
+                                                </p>
+                                            </li>
+                                            <li>
+                                                <p>
+                                                    <em>INSERT + . (period)</em>
+                                                </p>
+                                            </li>
+                                            <li>
+                                                <p>
+                                                    <em>INSERT + J</em>
+                                                </p>
+                                            </li>
+                                            <li>
+                                                <p>
+                                                    <em>INSERT + K</em>
+                                                </p>
+                                            </li>
+                                            <li>
+                                                <p>
+                                                    <em>INSERT + L</em>
+                                                </p>
+                                            </li>
+                                            <li>
+                                                <p>
+                                                    <em>INSERT + U</em>
+                                                </p>
+                                            </li>
+                                            <li>
+                                                <p>
+                                                    <em>INSERT + I</em>
+                                                </p>
+                                            </li>
+                                            <li>
+                                                <p>
+                                                    <em>INSERT + O</em>}</p>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li>
+                                        <p> What did these keystrokes do? The keystrokes will work any time JAWS is running.</p>
+                                    </li>
+                                    <li>
+                                        <p> Use keyboard help now to get to know the laptop layout.</p>
+                                    </li>
+                                    <li>
+                                        <p> Press the key or keystroke twice quickly to get a more detailed description of what the key or keystroke will do.</p>
+                                    </li>
+                                    <li>
+                                        <p> Now turn "keyboard help" off. Press <em>INSERT + 1</em> to toggle "keyboard help" off.</p>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ol>
+                    </subsection>
+                </section>
+                <section>
+                    <title>Starting JAWS</title>
+                    <p>When you install JAWS on your computer, a JAWS icon will be placed on the desktop. This is a shortcut to turn JAWS on. There is more than one method you can use to turn JAWS on. Setting up a JAWS hotkey is another method that can be used to start JAWS.</p>
+                    <p>When JAWS is running, you can shut it off as needed. The keyboard command used to turn JAWS off is <em>INSERT + F4</em>. After you press the command, a shut-down dialog box will appear. Pres <em>ENTER</em> to shut JAWS off.</p>
+                    <subsection>
+                        <title>Quiz</title>
+                        <ul>
+                            <li>
+                                <p> When installing JAWS, where is a shortcut to run the program placed?</p>
+                            </li>
+                            <li>
+                                <p> What is a second method that can be used to run JAWS?</p>
+                            </li>
+                            <li>
+                                <p> What is the keyboard command to shut JAWS off?</p>
+                            </li>
+                            <li>
+                                <p> How can you turn keyboard help on or off?}</p>
+                            </li>
+                        </ul>
+                    </subsection>
+                    <subsection>
+                        <title>Tasks</title>
+                        <p>One method to start JAWS is to start it from the icon on the desktop. Follow the below steps to practice.</p>
+                        <ul>
+                            <li>
+                                <p> Press <em>WINDOWS KEY + D</em> to bring focus to the desktop.</p>
+                            </li>
+                            <li>
+                                <p> Press <em>J</em> for JAWS. This will bring focus to the JAWS icon. If you have more than one icon starting with letter j, you may have to press j more than once.</p>
+                            </li>
+                            <li>
+                                <p> Check to see where you are. Use the say line command. Press <em>INSERT + up ARROW</em>.</p>
+                            </li>
+                            <li>
+                                <p> Press <em>ENTER</em> to start JAWS.</p>
+                            </li>
+                            <li>
+                                <p> The JAWS window will open. JAWS will start running.</p>
+                            </li>
+                        </ul>
+                        <p>Now learn to set up a hotkey that will start JAWS.</p>
+                        <ul>
+                            <li>
+                                <p> Press <em>WINDOWS KEY + D</em> to focus on the desktop.</p>
+                            </li>
+                            <li>
+                                <p> Press <em>letter J</em> until the JAWS shortcut icon is selected. If JAWS does not say "selected", then press <em>SPACEBAR</em> to select the icon. </p>
+                            </li>
+                            <li>
+                                <p> Pressing <em>ENTER</em> would open the window. We don't want to open the JAWS window at this time, just to select it.</p>
+                            </li>
+                            <li>
+                                <p> Press <em>ALT + ENTER</em> to open the properties dialog box.</p>
+                            </li>
+                            <li>
+                                <p> When "properties" is opened, you will be on a multi-page dialog box. Focus will probably be on the "shortcut" page.</p>
+                            </li>
+                            <li>
+                                <p> If you are not on the "shortcut" page, press <em>CONTROL + TAB</em> until focus is on the correct page.</p>
+                            </li>
+                            <li>
+                                <p> Press tab until you get to the "shortcut" or "hotkey".</p>
+                            </li>
+                            <li>
+                                <p> Press the <em>letter J</em>. The computer will assume you want <em>CONTROL + alt + J</em> as the shortcut. When you press the letter j, <em>CONTROL + alt + J</em> now becomes the hotkey to turn JAWS on.</p>
+                            </li>
+                            <li>
+                                <p> Confirm that you set the hotkey correctly. Use the hotkey to read the current control. <em>Insert + TAB</em> will read the current control and a message.</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>TAB</em> once. Though you don't need to change this for JAWS, the "run" option tells how the program should be run. For JAWS, keeping the choice at "normal window" is fine.</p>
+                            </li>
+                        </ul>
+                        <p>For JAWS, run in the normal window.</p>
+                        <ul>
+                            <li>
+                                <p>
+                                    <em>TAB</em> to the OK button. Press <em>SPACE</em> to confirm the changes. You may need to take other actions depending on how your administrative settings for your PC are set up.</p>
+                            </li>
+                            <li>
+                                <p> Press <em>ENTER</em> on the continue button to confirm the change. Test to see if the hotkey worked. First close JAWS. Turn the screen reader off by pressing the hotkey <em>INSERT + F4</em>.</p>
+                            </li>
+                            <li>
+                                <p> Press <em>SPACE</em> to turn JAWS off.</p>
+                            </li>
+                            <li>
+                                <p> Now turn JAWS on. Try the hotkey you set. Press <em>CONTROL + ALT + J</em>Hopefully it worked and JAWS will start running again.</p>
+                            </li>
+                        </ul>
+                    </subsection>
+                </section>
+                <section>
+                    <title>JAWS Start-Up Wizard</title>
+                    <p>When JAWS is installed, a start-up wizard will run. You can access this wizard at any time to manipulate JAWS settings. The speech rate, punctuation level, and typing echo can be changed to meet your preferences. The typing echo is what you hear when you keyboard.</p>
+                    <p>There are other settings in the JAWS start-up wizard that can be altered. You can control how JAWS is started. If you do not always use JAWS, you can set the option to have JAWS never run automatically. In this case, JAWS would need to be turned on by using a hotkey, desktop icon, or by going through the start menu.</p>
+                    <p>In the wizard, you can set JAWS to run at the log in screen or after the log in screen.</p>
+                    <p>Other options can be changed by using the JAWS start-up wizard. Keyboard, braille,and verbosity options can be modified. At any time when using JAWS, you can get help. <em>INSERT + F1</em> will give help. After listening to information gained from <em>INSERT + F1</em> help, use <em>ESCAPE</em> to close help.</p>
+                    <subsection>
+                        <title>Quiz</title>
+                        <ul>
+                            <li>
+                                <p> Give 3 options that the JAWS start-up wizard can help you change?</p>
+                            </li>
+                            <li>
+                                <p> To get JAWS help from anywhere, what command can be used?</p>
+                            </li>
+                            <li>
+                                <p> How can "JAWS help" be closed?</p>
+                            </li>
+                            <li>
+                                <p> What is the command to bring focus to the desktop?</p>
+                            </li>
+                        </ul>
+                    </subsection>
+                    <subsection>
+                        <title>Tasks</title>
+                        <p>Learn to use the JAWS start-up wizard to quickly change options to meet your preferences. Follow the steps below to start the wizard:</p>
+                        <ul>
+                            <li>
+                                <p> Press <em>ALT + TAB</em> to switch to the JAWS window. If you have JAWS running, this JAWS window will also be running.</p>
+                            </li>
+                            <li>
+                                <p> Press <em>ALT + H</em> to open the help menu.</p>
+                            </li>
+                            <li>
+                                <p> Press <em>letter Z</em> to open the startup wizard.</p>
+                            </li>
+                        </ul>
+Complete these steps with your student. Use the start-up wizard to make changes and start learning what your preferences are.
+		<ul><li><p> The first option allows you to install the tutorial from the JAWS CD. Follow the instructions given to do this. Older students would greatly benefit from listening to training materials from Freedom Scientific. It is also suggested that instructors listen to the tutorials provided in the Training section of the "JAWS help" menu.</p></li><li><p> If you have already installed the tutorial, press <em>ENTER</em> to go to the next screen.</p><ul><li><p> In the dialog box that appears, you can control the JAWS speech settings. You can adjust the voice rate, the punctuation, and typing echo.</p></li><li><p> Adjust the voice rate by moving the slider bar. Use <em>left ARROW</em> or <em>right ARROW</em> to adjust the speaking rate. <em>Page UP</em> or <em>page DOWN</em> will allow you to move in larger chunks.</p></li><li><p> When done changing the voice rate, press <em>TAB</em> to move forward through the dialog box. <em>SHIFT + TAB</em> will move back through the dialog box if needed.</p></li><li><p> Next you can control how much punctuation is spoken. Use <em>ARROW KEYS</em> to make choices in the combo box. <em>TAB</em> when finished.</p></li><li><p><em>TAB</em> again. You will be taken to a group of buttons. These buttons are to change typing echo. Typing echo is what you hear when you type.</p></li><li><p> Use <em>UP ARROW</em> or <em>DOWN ARROW</em> to select the button you want.</p></li><li><p> At any time, get help by pressing <em>INSERT + F1</em>. Try this frequently when you are first using JAWS. <em>ESCAPE</em> to close the "help" window.</p><ul><li><p> Try getting help when on the key echo radio buttons.</p></li><li><p> In the help window, use <em>UP ARROW</em> or <em>DOWN ARROW</em> to read. <em>ESCAPE</em> to close the help window.</p></li></ul></li><li><p> Enter to go to the next screen in the wizard.</p></li><li><p> The screen will allow you to change when JAWS is started.</p></li></ul></li><li><p> Learn about what each option is..</p><ol><li><p> If you set JAWS to load before the log in screen, speech will be available when logging in with your name and password.</p></li><li><p> You may set the option for JAWS to start running after log in for all users. In this way, JAWS would always be running for you when you want to use speech with your PC.</p></li><li><p> You can set JAWS to start after log in for "only this user". How you set JAWS to run depends on your individual situation. If you are the only person using your computer, then these options won't be quite as important to you.</p></li></ol></li><li><p><em>ENTER</em> to go to the next screen.</p></li><li><p> Keyboard settings allow you to control use of a Virtual Ribbon Menu, Keyboard Layout, and Initial state of num lock key.</p></li><li><p> JAWS provides a virtual ribbon to make access to menu options user friendly. The virtual ribbon is similar to more traditional ribbons used by computers running earlier versions of Windows.</p></li></ul><p>Alter Keyboard Layouts.</p><ul><li><p> You can control which keyboard layouts that you use with JAWS. For example, you can choose between the laptop or desktop keyboard layout. You should have explored this in an earlier lesson when we changed the keyboard layout to laptop.</p></li><li><p> The use of <em>NUMLOCK</em> can be controlled. We'll leave it off for now. If you want to learn more about this, use <em>INSERT + F1</em> to get help.</p></li><li><p> Verbosity settings are on the next screen.</p></li><li><p> Verbosity settings include tutor messages, access keys, verbosity level, and graphic verbosity. Verbosity is the amount of help JAWS will automatically give you.</p></li><li><p> Use <em>ARROW KEYS</em> to choose. Get help as needed.</p></li><li><p> There is also a Braille screen. You may not be starting with braille. <em>SPACE</em> on the Finish button to exit the wizard. Follow any instructions your PC gives.</p></li></ul></subsection>
+                </section>
+                <section>
+                    <title>The JAWS Options Menu</title>
+                    <p>Use the JAWS options menu to change and explore the various changes you can make to how JAWS speaks and runs. The "Options" menu is found in the JAWS window. There are basic settings, settings for changing voices, and options for using braille. You can also manage application settings.</p>
+                    <p>In The "Basics" pull-down menu of JAWS options, you have choices regarding tutor messages and access keys. You can alter how much JAWS speaks when in menus or dialog boxes. You can <em>TAB</em> through the dialog boxes that open when you are exploring areas of the "Options" menu. Pressing <em>INSERT + F1</em> will be a good way for you to learn what specific items are.</p>
+                    <p>In the "Options" menu, there are many aspects of the voice for JAWS that you can change. More choices can be found here than in the JAWS Start-Up wizard that we explored earlier. It is recommended that you read or listen to training materials and use "help" to explore various menu items.</p>
+                    <subsection>
+                        <title>Quiz</title>
+                        <ul>
+                            <li>
+                                <p> Where can the JAWS "Options" menu be found?</p>
+                            </li>
+                            <li>
+                                <p> How does the "Options" menu compare to using the JAWS start-up wizard?</p>
+                            </li>
+                            <li>
+                                <p> What can be changed by using the Options menu?}</p>
+                            </li>
+                        </ul>
+                    </subsection>
+                    <subsection>
+                        <title>Tasks</title>
+                        <p>Follow the steps provided to begin exploring the JAWS options menu.</p>
+                        <p>Explore the options menu. Use <em>ALT + TAB</em> to open the JAWS window.</p>
+                        <ul>
+                            <li>
+                                <p>
+                                    <em>ALT</em> to jump to the menu bar.</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>Down ARROW</em> to open the "Options" pull-down menu.</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>ENTER</em> to explore options found in "Basics".</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>TAB</em> or <em>SHIFT + TAB</em> through the dialog box.</p>
+                            </li>
+                            <li>
+                                <p> Press <em>INSERT + F1</em> on each item. Jaws will give help information. <em>ESCAPE</em> to close the help message.</p>
+                            </li>
+                            <li>
+                                <p> Explore making changes to see how JAWS works for you.</p>
+                            </li>
+                            <li>
+                                <p> Complete the same steps to explore "voices" in the options menu. Remember to use <em>INSERT + F1</em> to get help.</p>
+                            </li>
+                            <li>
+                                <p> Explore other items in the Options menu as needed.</p>
+                            </li>
+                        </ul>
+                    </subsection>
+                </section>
+            </chapter>
+            <chapter>
+                <title>Learning JAWS</title>
+                <section>
+                    <title>The Windows 10 Desktop</title>
+                    <p>What is the desktop of your computer? The desktop is the area of the screen you see after turning on your computer and logging in. The top part of the desktop contains many icons. When the icons are clicked on, the computer user will be taken to applications, folders, or documents on the computer.</p>
+                    <p>At the bottom of the desktop is a bar. On the left-most corner of the bar is the start button. When this button is clicked on, the start menu opens. To the right of the start button is a taskbar. When you have programs running, they are listed in this area. To the right of the taskbar is a notification area. This area tells you about computer operations such as sound and internet access. The time is displayed in the right-most corner of the notification area.</p>
+                    <p>The PC desktop is very helpful. From this home base, you can get to all other areas of the computer. Use your desktop wisely!</p>
+                    <subsection>
+                        <title>Quiz</title>
+                        <ul>
+                            <li>
+                                <p> Name the parts of a desktop.</p>
+                            </li>
+                            <li>
+                                <p> What is on the upper portion of the desktop?</p>
+                            </li>
+                            <li>
+                                <p> Make an illustration of the desktop that could describe its parts.</p>
+                            </li>
+                            <li>
+                                <p> List the specific icons on your desktop. Write them in alphabetical order.</p>
+                            </li>
+                        </ul>
+                    </subsection>
+                    <subsection>
+                        <title>Tasks</title>
+                        <p>Using keyboard commands can save time. You can keep your hands on the keyboard without using the mouse. Practice these shortcut commands.</p>
+                        <ul>
+                            <li>
+                                <p> When on the upper part of the desktop, use the initial letter of an icon to jump to the icon.</p>
+                            </li>
+                            <li>
+                                <p> When you want to select an icon without opening it, press <em>SPACE</em>.</p>
+                            </li>
+                            <li>
+                                <p> Press <em>ENTER</em> to open a desktop icon.</p>
+                            </li>
+                            <li>
+                                <p> Press <em>ALT + F4</em> to close a program or document.</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>TAB</em> can be used to move from the desktop to the start button to the taskbar.</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>SHIFT + TAB</em> will reverse the direction of movement.</p>
+                            </li>
+                            <li>
+                                <p> When using JAWS, say the time with <em>INSERT + F12</em>.</p>
+                            </li>
+                            <li>
+                                <p> When using the laptop keyboard layout, <em>CAPSLOCK</em> is a modifier key for insert. Instead of pressing the <em>INSERT</em> key, you may use <em>CAPSLOCK</em>.</p>
+                            </li>
+                        </ul>
+                    </subsection>
+                </section>
+                <section>
+                    <title>Computer or My Computer</title>
+                    <p>In the start menu there is a "Computer" or "My Computer" item. On some computers, there is a desktop icon called "Computer" or "My Computer". Press the <em>windows KEY</em> to open the start menu tab to the right column of the start menu. <em>Down ARROW</em> to "computer" and press <em>ENTER</em>. There are many ways to access the "My Computer" area of your PC.</p>
+                    <p>In "My Computer" you can access different computer drives. The "c" drive is the hard drive of your computer. That is where programs and other files are stored. The "d" drive is usually a compact disk player. The name of the CD will show up when one is installed on your computer. If you are using a thumb-drive, drive "e" or "f" is usually where this will show up. To access information on different drives, you will need to know how to use "Computer" or "My Computer".</p>
+                    <subsection>
+                        <title>Quiz</title>
+                        <ul>
+                            <li>
+                                <p> Describe one method of opening "Computer" or "My Computer" on your PC.</p>
+                            </li>
+                            <li>
+                                <p> What can be found in drive "e" or "f"?</p>
+                            </li>
+                            <li>
+                                <p> What drive letter is usually assigned to the hard drive?</p>
+                            </li>
+                            <li>
+                                <p> On your PC, what is displayed when you open Computer or My Computer?}</p>
+                            </li>
+                        </ul>
+                    </subsection>
+                    <subsection>
+                        <title>Tasks</title>
+                        <p>Using keyboard commands can save time. You can keep your hands on the keyboard without using the mouse. Practice these shortcut commands. These are Windows commands, not JAWS commands.</p>
+                        <ul>
+                            <li>
+                                <p> Open My Computer or Computer from the Start Menu or desktop</p>
+                            </li>
+                            <li>
+                                <p> Press <em>INSERT + T</em> to have JAWS say the window title.</p>
+                            </li>
+                            <li>
+                                <p> In a list of folders or drives, use the initial letter of an item to jump to it. Try this in "Computer" or "My Computer:.</p>
+                            </li>
+                            <li>
+                                <p> Use <em>CONTROL + HOME</em> to jump to the top of a list.</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>CONTROL + END</em> will jump to the bottom of a list.</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>Alt + left ARROW</em> will move back to the previous open window.</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>CONTROL + W</em> will close an open window.</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>Windows key + E</em> will open the "Computer" or "My Computer" system. This is known as Windows Explorer.</p>
+                            </li>
+                            <li>
+                                <p> To have JAWS speak the date, press <em>INSERT + F12</em> twice quickly.</p>
+                            </li>
+                        </ul>
+                    </subsection>
+                </section>
+                <section>
+                    <title>Microsoft Word</title>
+                    <p>A word processor, such as Microsoft Word, can be used for writing and editing. To open Microsoft Word press the <em>Windows KEY</em> to open the start menu. Type, "word". Press <em>ENTER</em>. A blank document should open. Just start writing in the document. When you are finished, the document can be saved or printed. Unless you change the option, the document will be stored in your Documents or My Documents folder. There are many ways to create and save documents. Microsoft Word and other word processors are useful for completing tasks at school and home.</p>
+                    <subsection>
+                        <title>Quiz</title>
+                        <ul>
+                            <li>
+                                <p> Describe one way of opening a blank Microsoft Word document or other word processor.</p>
+                            </li>
+                            <li>
+                                <p> what can you do with a document after it is written?</p>
+                            </li>
+                            <li>
+                                <p> Name 5 tasks you could use a word processor for.</p>
+                            </li>
+                        </ul>
+                    </subsection>
+                    <subsection>
+                        <title>Tasks</title>
+                        <ul>
+                            <li>
+                                <p> Open the start menu.</p>
+                            </li>
+                            <li>
+                                <p> Type "word".</p>
+                            </li>
+                            <li>
+                                <p> Press <em>ENTER</em>. A blank document will open.</p>
+                            </li>
+                            <li>
+                                <p> Before you begin writing a document, change to single or double space. <em>CONTROL + 1</em> will set the line spacing to single. To set line spacing to double, press <em>CONTROL + 2</em>.</p>
+                            </li>
+                            <li>
+                                <p> Write in your document.</p>
+                            </li>
+                            <li>
+                                <p> To save a document, press <em>CONTROL + S</em>. Just start writing to name the document. <em>ENTER</em> to save the document in your Documents or My Documents folder.</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>CONTROL + P</em> can be used to print. You may print if you are connected to a printer and this has been set up.</p>
+                            </li>
+                            <li>
+                                <p> To center a line of text in a Microsoft Word document, use <em>CONTROL + E</em>.</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>CONTROL + L</em> will left justify a line of text.</p>
+                            </li>
+                            <li>
+                                <p> Use <em>ALT + F4</em> to close the open application.</p>
+                            </li>
+                        </ul>
+                    </subsection>
+                </section>
+                <section>
+                    <title>Insert ClipArt</title>
+                    <p>In a Microsoft Word document, you can insert a picture from the clipart gallery. Using graphics may assist you in creating a variety of projects. On the ribbon, you will find an insert tab. Within insert there is a clipart button that will bring up a search pane for using the clipart gallery. Clipart can add color and fun to your Microsoft Word creations.</p>
+                    <subsection>
+                        <title>Quiz</title>
+                        <ul>
+                            <li>
+                                <p> Where can you locate the option to insert clipart?</p>
+                            </li>
+                            <li>
+                                <p> How might inserting a picture make some projects better?</p>
+                            </li>
+                            <li>
+                                <p> Discuss projects in which using clipart would be appropriate? When might inserting an image not be a good idea? Explain.</p>
+                            </li>
+                        </ul>
+                    </subsection>
+                    <subsection>
+                        <title>Tasks</title>
+                        <p>In a Microsoft Word document, try the following process to insert an image from the clipart gallery. You can complete the process without using the mouse.</p>
+                        <ul>
+                            <li>
+                                <p> Press <em>ALT + n + F</em> to bring up the clipart search area.</p>
+                            </li>
+                            <li>
+                                <p> Begin writing. Write a search term for an image you would like to find.</p>
+                            </li>
+                            <li>
+                                <p> Press <em>ENTER</em> to begin the search.</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>TAB</em> to the results pane.</p>
+                            </li>
+                            <li>
+                                <p> Use <em>UP ARROW</em> or <em>DOWN ARROW</em> to explore the results.</p>
+                            </li>
+                            <li>
+                                <p> Press <em>ENTER</em> on your choice to insert it into the document.</p>
+                            </li>
+                            <li>
+                                <p> If you need to move up by screen, use the <em>PAGEUP</em> key. <em>PAGEDOWN</em> will move down by screen in your document.</p>
+                            </li>
+                        </ul>
+                    </subsection>
+                </section>
+                <section>
+                    <title>Maximize or Minimize</title>
+                    <p>Sometimes when in a document or on a web page, it will be helpful to maximize or minimize. Maximizing an item makes it as large as it can be. This can be helpful in seeing the document or in hearing it read by a screen reader.</p>
+                    <p>Minimizing a document is similar to hiding it. The document is still open, but it is hidden. Minimizing an application can be helpful if you want to access another area on your PC, such as the desktop, while keeping the work at hand open. Maximizing and minimizing can assist you in becoming more efficient when completing many computer tasks.</p>
+                    <subsection>
+                        <title>Quiz</title>
+                        <ul>
+                            <li>
+                                <p> What does maximize mean?</p>
+                            </li>
+                            <li>
+                                <p> What does minimize mean?</p>
+                            </li>
+                            <li>
+                                <p> Describe a situation in which maximizing or minimizing might be of value.</p>
+                            </li>
+                        </ul>
+                    </subsection>
+                    <subsection>
+                        <title>Tasks</title>
+                        <p>Try these steps to practice using keyboard commands.</p>
+                        <ul>
+                            <li>
+                                <p> Open a word document.</p>
+                            </li>
+                            <li>
+                                <p> Ensure the document is maximized. Press <em>ALT + SPACE</em>. Then press the <em>letter X</em>.</p>
+                            </li>
+                            <li>
+                                <p> Minimize the document. Press <em>ALT + SPACE</em>. Press the <em>letter N</em></p>
+                            </li>
+                            <li>
+                                <p> Open another document. Write in the document if you wish.</p>
+                            </li>
+                            <li>
+                                <p> Open the first document. <em>Alt + TAB</em> can be used to switch between open documents or programs. If you have many items open, <em>ALT + TAB</em> quickly will toggle among the various open windows.</p>
+                            </li>
+                            <li>
+                                <p> Minimize all with <em>WINDOWS KEY + M</em>.</p>
+                            </li>
+                            <li>
+                                <p> To open JAWS window use <em>INSERT + J</em> as a quick shortcut.</p>
+                            </li>
+                        </ul>
+                    </subsection>
+                </section>
+                <section>
+                    <title>Reading a Word Document</title>
+                    <p>Open a Microsoft Word or other word processor. Write a heading as you would for a required assignment. Then write a paragraph or two. Windows provides many commands that you can use for moving around the document. The commands will work with or without a screen reader. Keeping your hands on the home row instead of reaching for the mouse can help you save time when editing a document.</p>
+                    <p>As an example, <em>CONTROL + HOME</em> will jump to the top of a document. <em>CONTROL + END</em> will jump to the end of a document. <em>HOME</em> will jump to the beginning of a line. To jump to the end of a line of text, use the <em>END</em> key.</p>
+                    <p>Show what You Know:</p>
+                    <ul>
+                        <li>
+                            <p> In a document on a line of text, what does the END key do?</p>
+                        </li>
+                        <li>
+                            <p> How can you jump to the beginning of a document?</p>
+                        </li>
+                        <li>
+                            <p> What is the advantage of using keyboard shortcuts instead of the mouse?}</p>
+                        </li>
+                    </ul>
+                    <subsection>
+                        <title>Tasks</title>
+                        <p>Follow the steps listed here to practice using keyboard commands.</p>
+                        <ul>
+                            <li>
+                                <p> Open an existing document that you have saved in Documents or My Documents. Use the <em>Windows KEY</em> to open the start menu. <em>TAB</em> to the second column.</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>Down ARROW</em> to Documents or My Documents. Press <em>ENTER</em> on Documents or My Documents.</p>
+                            </li>
+                            <li>
+                                <p> Press the initial letter of your document until it is highlighted. <em>ENTER</em> to open the document.</p>
+                            </li>
+                            <li>
+                                <p> Jump to the end of the document with <em>CONTROL + END</em>.</p>
+                            </li>
+                            <li>
+                                <p> Jump back to the top with <em>CONTROL + HOME</em>.</p>
+                            </li>
+                            <li>
+                                <p> Navigate by line. Use <em>UP ARROW</em> or <em>DOWN ARROW</em>.</p>
+                            </li>
+                            <li>
+                                <p> Navigate left or right by character. Use <em>left ARROW</em> or <em>right ARROW</em>.</p>
+                            </li>
+                            <li>
+                                <p> You can navigate back by word or forward by word. <em>CONTROL + LEFT ARROW</em> will read back by word. <em>CONTROL + right ARROW</em> will move forward by word.</p>
+                            </li>
+                            <li>
+                                <p> Place the cursor in front of any corrections. Use <em>BACKSPACE</em> to delete the character to the left of the cursor.</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>CONTROL + S</em> to save any changes you have made.</p>
+                            </li>
+                            <p>If you created a new document, the "save" dialog box will appear. Just start writing to name the document. <em>ENTER</em> to save.</p>
+                        </ul>
+                        <ul>
+                            <li>
+                                <p> Close the document with <em>ALT + F4</em>.</p>
+                            </li>
+                        </ul>
+                    </subsection>
+                </section>
+                <section>
+                    <title>Cut, Copy, and Paste</title>
+                    <p>Sometimes when editing a document it is necessary to delete or move text around. When you "cut" text to the clipboard, you remove it from the document and place it on the clipboard. The clipboard is an invisible area where text or graphics are stored. Information stays on the clipboard until you paste it somewhere else or until you place other information on the clipboard.</p>
+                    <p>To "copy" text to the clipboard means that you leave one copy in the original location and move another copy to the clipboard. You may paste text from the clipboard to the position where your cursor is located. Use the commands below to practice copying, cutting, and pasting in a document that is for practice.</p>
+                    <subsection>
+                        <title>Quiz</title>
+                        <ul>
+                            <li>
+                                <p> Explain the difference between "copying text" and "cutting text".</p>
+                            </li>
+                            <li>
+                                <p> What is the clipboard?</p>
+                            </li>
+                            <li>
+                                <p> Where is information "pasted" from the clipboard to?</p>
+                            </li>
+                            <li>
+                                <p> Describe a situation in which you may need the clipboard.</p>
+                            </li>
+                        </ul>
+                        <p>.</p>
+                    </subsection>
+                    <subsection>
+                        <title>Tasks</title>
+                        <p>Practice the commands listed here.</p>
+                        <ul>
+                            <li>
+                                <p> Open a practice document. Write some numbered sentences.</p>
+                            </li>
+                            <li>
+                                <p> Select the entire document. Use <em>CONTROL + A</em>.</p>
+                            </li>
+                            <li>
+                                <p> Cut the text to the clipboard. Use <em>CONTROL + X</em>.</p>
+                            </li>
+                            <li>
+                                <p> The information is now on the clipboard, but not in your document. Paste the text back in your document by using <em>CONTROL + V</em>.</p>
+                            </li>
+                            <li>
+                                <p> Select all text again. Copy it to the clipboard by using <em>CONTROL + C</em>.</p>
+                            </li>
+                            <li>
+                                <p> Jump to the end of the document. Press enter twice. Paste the text from the copy on the clipboard. Press <em>CONTROL + V</em>. Now you have two copies of the same text.</p>
+                            </li>
+                            <li>
+                                <p> You can select by line. Use <em>SHIFT + up ARROW</em> or <em>SHIFT + down ARROW</em>.</p>
+                            </li>
+                            <li>
+                                <p> Select text by character with <em>SHIFT + right ARROW</em> or <em>SHIFT + left ARROW</em>.</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>CONTROL + shift + right ARROW</em> will select by word to the right. <em>CONTROL + shift + left ARROW</em> will select by word to the left.</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>SHIFT + END</em> will select from the cursor to the end of a line. <em>SHIFT + HOME</em> will select from the cursor to the beginning of a line.</p>
+                            </li>
+                        </ul>
+                        <p>Practice using the select, cut, copy, and paste commands to move text around in a document. Text will remain on the clipboard until it is replace by something else. You can use the <em>DELETE</em> or <em>BACKSPACE</em> key to delete selected text.</p>
+                    </subsection>
+                </section>
+                <section>
+                    <title>Dialog Boxes</title>
+                    <p>When using the computer, you will often interact with dialog boxes. In a dialog box, there is usually an underlined button. This is the default button. Pressing <em>ENTER</em> anywhere in the dialog box will activate the default button.</p>
+                    <em>TAB</em> can be used to move forward in a dialog box. <em>SHIFT + TAB</em> can be used to move back by item in a dialog box. <em>SPACE</em> will check and uncheck items as needed. <em>ARROW KEYS</em> will often assist you in making choices in combo boxes or moving slider bars.
+
+<subsection><title>Quiz</title><ul><li><p> What is the keyboard command to move forward through a dialog box?</p></li><li><p> What does shift + tab do in a dialog box?</p></li><li><p> How can you check or uncheck an item (such as a checkbox)?}</p></li></ul></subsection><subsection><title>Tasks</title><p>Follow these steps to practice Windows keyboard commands.</p><ul><li><p> Open a new or existing word document. If you do not have text in the document, write a paragraph.</p></li><li><p> Read and edit your document. Use keyboard commands rather than the mouse if you can.</p></li><li><p> To save the document, use <em>CONTROL + S</em>.</p></li><li><p> Open the print dialog box with <em>CONTROL + P</em>.</p></li><li><p> Use <em>TAB</em> and <em>SHIFT + TAB</em> to practice navigating around the dialog box.</p></li><li><p><em>ENTER</em> will activate the default button and print the document (assuming you are connected to a printer).</p></li><li><p><em>Alt + F4</em> will exit the document.</p></li></ul></subsection></section>
+                <section>
+                    <title>Format Text</title>
+                    <p>In a Microsoft Word document, you can format text as needed. This can be done by using windows shortcut commands. Highlight text that you want to bold, underline, or italic. Then use a keyboard command to change the format of the selected text. You may also use the keyboard command before writing the text, write the text, then toggle the format command back off.</p>
+                    <p>As needed, you can change the text size. <em>CONTROL + shift + .</em> can be used to increase the font size. To decrease the font size, use <em>CONTROL + shift + ,</em>. On a PC, don't worry if you make an error. <em>CONTROL + Z</em> will undo the last action that you completed. Try it out!</p>
+                    <subsection>
+                        <title>Quiz</title>
+                        <ul>
+                            <li>
+                                <p> When using a PC, what can you do if you want to undo the last action on the computer?</p>
+                            </li>
+                            <li>
+                                <p> What does ALT do?</p>
+                            </li>
+                            <li>
+                                <p> What command can be used to make the text size larger?</p>
+                            </li>
+                        </ul>
+                    </subsection>
+                    <subsection>
+                        <title>Tasks</title>
+                        <p>Follow the steps below to practice using keyboard commands to change the format of text.</p>
+                        <ul>
+                            <li>
+                                <p> Create a new word document or open an existing document. Write in the document in order to have text to practice with.</p>
+                            </li>
+                            <li>
+                                <p> Select a line of text. When at the beginning of a line, press <em>SHIFT + END</em> to select that line of text.</p>
+                            </li>
+                            <li>
+                                <p> Press <em>CONTROL + B</em>. This command will bold the text. <em>CONTROL + B</em> again will toggle bold off.</p>
+                            </li>
+                            <li>
+                                <p> You can do anything you want to selected text to change it. Increase the size by using <em>CONTROL + shift + . (period)</em> and decrease the size by using <em>CONTROL + shift + , (comma)</em>.</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>CONTROL + U</em> can be used to toggle underline on or off.</p>
+                            </li>
+                            <li>
+                                <p> Toggle italic on or off by using <em>CONTROL + I</em>.</p>
+                            </li>
+                            <li>
+                                <p> Practice using commands as time allows.</p>
+                            </li>
+                        </ul>
+                    </subsection>
+                </section>
+                <section>
+                    <title>Change the Background</title>
+                    <p>In Microsoft Word, the page background of your document can be changed.</p>
+                    <p>Press <em>ALT</em>. Pressing <em>ALT</em> will move you to the ribbon. Press <em>p p C</em> to open the background dialog box. Then <em>TAB</em> to or use <em>ARROWS</em> to the background color you want. Press <em>ENTER</em>.</p>
+                    <p>When making a greeting card or sign, it might be nice to change the background color. This may not be a good idea when writing a research paper. Always check with your instructor before getting too fancy!</p>
+                    <subsection>
+                        <title>Quiz</title>
+                        <ul>
+                            <li>
+                                <p> What command is used to jump to the ribbon?</p>
+                            </li>
+                            <li>
+                                <p> To change the background color, what letters are used?</p>
+                            </li>
+                            <li>
+                                <p> Give two examples of projects that might have colorful backgrounds.</p>
+                            </li>
+                            <p>Review:</p>
+                            <li>
+                                <p> When writing a document, how can you center a line of text or an image?</p>
+                            </li>
+                            <li>
+                                <p> What is the command to left justify an object or line of text</p>
+                            </li>
+                        </ul>
+                    </subsection>
+                    <subsection>
+                        <title>Tasks</title>
+                        <p>Follow the steps below to change the background of a document.</p>
+                        <ul>
+                            <li>
+                                <p> Open an existing document or create a new document.</p>
+                            </li>
+                            <li>
+                                <p> Change the background color to black. Press <em>ALT, then p p C</em>.</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>TAB</em> to "black" and press <em>ENTER</em>. The text should turn white and the background color will be black.</p>
+                            </li>
+                            <li>
+                                <p> Explore changing the background to other colors.</p>
+                            </li>
+                            <li>
+                                <p> You can change the font color as needed. Press <em>CONTROL + A</em> to select all.</p>
+                            </li>
+                            <li>
+                                <p> Press <em>ALT, then H, F, and finally N</em> to bring up the "font" dialog box. <em>TAB</em> through the dialog box. Make changes as needed. Use <em>ENTER</em> and <em>ARROW KEYS</em> to help make changes.</p>
+                            </li>
+                            <li>
+                                <p> Another handy command is to force a new page in a document. Press <em>CONTROL + ENTER</em> to force a new page.</p>
+                            </li>
+                        </ul>
+                    </subsection>
+                </section>
+                <section>
+                    <title>Folders and Files</title>
+                    <p>When using a computer, it is very important to stay organized. Keeping related information in one folder can help you to locate information quickly. If you keep every document you create in Documents or My Documents without using folders, it may become very time consuming for you to find and open what you need.</p>
+                    <p>Naming folders and documents appropriately is a good way to stay organized. Naming folders and documents by the date or page number may not be enough. Be specific and short. Consistently name your folders and documents so that you don't spend hours searching for what you need.</p>
+                    <p>If you have a folder called Social Studies 12/13 you can keep all Social Studies work for the 2012-2013 school year in the folder. When naming documents in the Social Studies 12/13 folder, be concise. Page 26 Summary, Test 14, Sept 27, or Chapter 8 Study Guide might be examples of document names.</p>
+                    <subsection>
+                        <title>Quiz</title>
+                        <ul>
+                            <li>
+                                <p> What are some good ideas to keep in mind when naming folders and documents?</p>
+                            </li>
+                            <li>
+                                <p> List some folders that you could create to help increase organization.</p>
+                            </li>
+                            <li>
+                                <p> What commands can be used to jump to the top and end of lists of folders or documents?}</p>
+                            </li>
+                        </ul>
+                    </subsection>
+                    <subsection>
+                        <title>Tasks</title>
+                        <p>Follow the steps below. Work with folders and files (documents) without using the mouse.</p>
+                        <ul>
+                            <li>
+                                <p> Open the start menu using the <em>windows KEY</em>. You may also use <em>CONTROL + ESCAPE</em>.</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>TAB</em> to the right side of the start menu. <em>ENTER</em> on Documents.</p>
+                            </li>
+                            <li>
+                                <p> Change the view to "list". Press <em>ALT + V</em>. <em>Down ARROW</em> to "list" and press <em>ENTER</em>. Or, just press the <em>letter L</em> for list. This will allow you to view your folders and files in a list.</p>
+                            </li>
+                            <li>
+                                <p> Press <em>ALT + F</em> to open the "file" pull-down menu.</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>Down ARROW</em> to the "new" pull-down menu. Right arrow to open the pull-down menu.</p>
+                            </li>
+                            <li>
+                                <p> Enter on Folder.</p>
+                            </li>
+                            <li>
+                                <p> Just start writing to name your folder. Enter when done.</p>
+                            </li>
+                            <li>
+                                <p> Press enter again to actually open the folder.</p>
+                            </li>
+                            <li>
+                                <p> You will have nothing in the folder. Create a new document. Press <em>ALT + F</em> to open the "File" pull-down menu. <em>Down ARROW</em> to the "New" pull-down menu. <em>RIGHT ARROW</em> to open the pull-down menu.</p>
+                            </li>
+                            <li>
+                                <p> Press <em>letter W</em> to open a new word document or arrow down to that option and press enter.</p>
+                            </li>
+                            <li>
+                                <p> Start writing to name the document. <em>ENTER</em> to finish. Pressing <em>ENTER</em> a second time would open the document, but you don't actually need to open the document at this time.</p>
+                            </li>
+                            <li>
+                                <p> Press <em>ALT + left ARROW</em> to go back to the previous window.</p>
+                            </li>
+                        </ul>
+                        <p>Press <em>CONTROL + c</em> to copy the document to the clipboard.</p>
+                        <ul>
+                            <li>
+                                <p> Use <em>ARROW KEYS</em> to the folder you just created or use its initial letter to jump to it.</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>ENTER</em> to open the folder.</p>
+                            </li>
+                            <li>
+                                <p> Paste the document from the clipboard to the folder. Press <em>CONTROL + V</em>.</p>
+                            </li>
+                            <li>
+                                <p> As in a document, <em>CONTROL + A</em> will select all folders and files in the window you are working in.</p>
+                            </li>
+                            <li>
+                                <p> Press the <em>DELETE</em> key to delete folders or files.</p>
+                            </li>
+                            <li>
+                                <p> As time, practice creating, moving, and deleting folders and files.</p>
+                            </li>
+                        </ul>
+                    </subsection>
+                </section>
+                <section>
+                    <title>internet</title>
+                    <p>It's hard to think about using a computer without also thinking about using the Internet. For this lesson, Microsoft Edge, Chrome, or Firefox will be used. These are web browsers. They can be used to access millions of web pages. Children and adults use the internet for work and school. Conducting research and socializing with friends and family are two examples of how individuals spend time on the Internet.</p>
+                    <p>There are many shortcuts available when using the internet. Shortcuts can be used to add and go to web pages in the favorites list. The keyboard can be used to change the "view" of web pages or to "print" web pages. The url of a web page is its web address.</p>
+                    <subsection>
+                        <title>Quiz</title>
+                        <ul>
+                            <li>
+                                <p> Give an example of a url.</p>
+                            </li>
+                            <li>
+                                <p> What is Microsoft Edge, Chrome, or Firefox?</p>
+                            </li>
+                            <li>
+                                <p> What are some activities that children might do on the Internet?}</p>
+                            </li>
+                        </ul>
+                    </subsection>
+                    <subsection>
+                        <title>Tasks</title>
+                        <p>Follow the steps below to practice using the keyboard when on the Internet.</p>
+                        <ul>
+                            <li>
+                                <p> Open the start menu.</p>
+                            </li>
+                            <li>
+                                <p> Begin typing. Type the name of a url that you want to go to. Press <em>ENTER</em>.</p>
+                            </li>
+                            <li>
+                                <p> After the page loads, add it to your "favorites" list. Press <em>ALT + A</em>. Press <em>ENTER</em> on "add to favorites.</p>
+                            </li>
+                            <li>
+                                <p> You will land in a text box. If you don't like the favorite name, just start writing to change it. Press <em>ENTER</em> to add the favorite to the list.</p>
+                            </li>
+                            <li> 
+                                <p> When the "add to favorites" dialog box opens, remember you can use <em>TAB</em>, <em>SHIFT + TAB</em>, and <em>ENTER</em> to interact with the options as needed. In a dialog box, use <em>INSERT + E</em> to have JAWS read the default button to you.</p>
+                            </li>
+                            <li>
+                                <p> You can go back to the favorite when needed. Press <em>ALT + A</em> to open the favorites list. Use <em>ARROW KEYS</em> to move down to the favorite and press <em>ENTER</em> or use its initial letter to jump to it.</p>
+                            </li>
+                            <li>
+                                <p> You can change the size of the text and images on a web page. Press <em>ALT + V</em> to open the "view" pull-down menu.</p>
+                            </li>
+                            <li>
+                                <p> Press <em>letter X</em> to open the "text size" pull-down menu. Use <em>ARROW KEYS</em> to select the size you want, press <em>ENTER</em>.</p>
+                            </li>
+                            <li>
+                                <p> Remember, you can use <em>ALT + F4</em> to exit the web browser.</p>
+                            </li>
+                        </ul>
+                    </subsection>
+                </section>
+                <section>
+                    <title>Create a Shortcut Command</title>
+                    <p>Often to open an application we go to the desktop, click on an icon, and open the program. This can be done for a program such as Microsoft Edge, Chrome, or Firefox. It is possible to create your own keyboard command that will allow you to open an application. In this way, you can open the program from anywhere on your PC. You don't have to return to the desktop or go to the Start Menu to open Programs. Simply press the keyboard shortcut command you create.</p>
+                    <p>You can create a short cut to open almost any program. Make a shortcut to open your e-mail application (such as Outlook, Thunderbird, etc.), internet browsers (such as Microsoft Edge, Chrome, or Firefox), or Microsoft Word. </p>
+                    <subsection>
+                        <title>Quiz</title>
+                        <ul>
+                            <li>
+                                <p> What would be the advantage of creating a keyboard shortcut to open a program?</p>
+                            </li>
+                            <li>
+                                <p> What programs might you want to create a shortcut command to open? Why?</p>
+                            </li>
+                            <li>
+                                <p> Shift + tab is used to move forward through a dialog box. What command is used to move forward through a dialog box?</p>
+                            </li>
+                        </ul>
+                    </subsection>
+                    <subsection>
+                        <title>Tasks</title>
+                        <p>Complete the steps below to create a shortcut command that will allow you to open Microsoft Edge, Chrome, or Firefox using a shortcut command.</p>
+                        <ul>
+                            <li>
+                                <p> Use <em>WINDOWS KEY + D</em> to bring focus to the desktop.</p>
+                            </li>
+                            <li>
+                                <p> Press <em>letter I</em> until Microsoft Edge, Chrome, or Firefox is the focus.</p>
+                            </li>
+                            <li>
+                                <p> Press <em>ALT + ENTER</em> to open the properties dialog box. Another method would be to right click on the icon. You can press <em>SHIFT + F10</em> to right click. Then <em>DOWN ARROW</em> to "Properties" and press <em>ENTER</em>.</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>TAB</em> to the "shortcut key" field.</p>
+                            </li>
+                            <li>
+                                <p> Press the <em>letter I</em>.</p>
+                            </li>
+                            <li>
+                                <p> The shortcut will be set to <em>CONTROL + alt + I</em> to open Microsoft Edge, Chrome, or Firefox.</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>TAB</em> to continue through the dialog box.</p>
+                            </li>
+                            <li>
+                                <p> At the "run" combo box, you can use <em>UP ARROW</em> or <em>DOWN ARROW</em> to select normal, minimized, or maximized. If you choose maximized, the browser will always start "maximized".</p>
+                            </li>
+                            <li>
+                                <p> Press <em>ENTER</em> when done making changes.</p>
+                            </li>
+                            <li>
+                                <p> Now when you press <em>CONTROL + alt + I</em>, whatever browser you selected should run. Try it out!}</p>
+                            </li>
+                        </ul>
+                    </subsection>
+                </section>
+                <section>
+                    <title>JAWS and Reading a Web page</title>
+                    <p>As with most tasks, a screen reader such as JAWS can help you read and navigate web pages more efficiently. <em>TAB</em> is used to move forward from link to link. <em>SHIFT + TAB</em> will move back by link. To follow a link, press <em>ENTER</em>. </p>
+                    <p>When on web pages, there are special JAWS commands to get lists of certain elements. An element is an item such as a link, frame, or heading. Using these lists can make it even faster to navigate web pages. When using JAWS on a web page, you can work in Reading Mode or Forms Mode.</p>
+                    <p>On a web page or anywhere, have JAWS read the status line. Press insert + downarrow to get the information on the status line. To say all, press insert + down arrow. Try this in various computer applications as well as when on the Internet. Control will stop JAWS from reading as needed.</p>
+                    <subsection>
+                        <title>Quiz</title>
+                        <ul>
+                            <li>
+                                <p> When using JAWS on the Internet, what two modes are there?</p>
+                            </li>
+                            <li>
+                                <p> What does insert + down arrow do when using JAWS?</p>
+                            </li>
+                            <li>
+                                <p> What is the command to "say all"?</p>
+                            </li>
+                            <li>
+                                <p> What is the command to jump to the top of a page or list?}</p>
+                            </li>
+                        </ul>
+                    </subsection>
+                    <subsection>
+                        <title>Tasks</title>
+                        <ul>
+                            <li>
+                                <p> Bring up the start menu.</p>
+                            </li>
+                            <li>
+                                <p> Type in a URL like "www.ksl.com" and press <em>ENTER</em>.</p>
+                            </li>
+                            <li>
+                                <p> JAWS will announce the number of headings and links. Then JAWS will start reading the page. You may press <em>CONTROL</em> to stop JAWS from reading.</p>
+                            </li>
+                            <li>
+                                <p> Use <em>UP ARROW</em> or <em>DOWN ARROW</em> to read back and forward by line. Explore the page using <em>UP ARROW</em> or <em>DOWN ARROW</em>.</p>
+                            </li>
+                            <li>
+                                <p> Move to the top of the page. Use <em>CONTROL + HOME</em>.</p>
+                            </li>
+                            <li>
+                                <p> Press <em>INSERT + T</em> to read the page title.</p>
+                            </li>
+                            <li>
+                                <p> Get help. Press <em>INSERT + F1</em>. You will get a quick tip and will be told about the number of links, headings, and forms on the page. Use <em>UP ARROW</em> or <em>DOWN ARROW</em> to read. <em>ESCAPE</em> to close help. Use <em>INSERT + F1</em> to let JAWS help you learn how to navigate web pages and complete other tasks.</p>
+                            </li>
+                            <li>
+                                <p> On a web page, you can move forward by page heading by pressing <em>letter H</em>. <em>SHIFT + H</em> will jump back by page heading. Try this on the web page.</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>Letter P</em> will let you jump by paragraph. <em>SHIFT + P</em> will move back by paragraph.</p>
+                            </li>
+                            <li>
+                                <p> You can get a list of links. Press <em>INSERT + F7</em> to bring up the links dialog box. <em>Up ARROW</em> or <em>DOWN ARROW</em> through the list of links. Press <em>ENTER</em> to follow the link.</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>Insert + H</em> will open the headings dialog box. use <em>ARROW KEYS</em> to cycle through the list of headings. Press <em>ENTER</em> to go to a heading.</p>
+                            </li>
+                            <li>
+                                <p> To go back to the previous web page, use <em>ALT + left ARROW</em>. <em>ALT + RIGHT ARROW</em> will take you forward by page in your current session.</p>
+                            </li>
+                            <li>
+                                <p> Explore as time allows. <em>ALT + F4</em> to exit when you finish.</p>
+                            </li>
+                        </ul>
+                        <p>Use Surf's Up:</p>
+                        <ul>
+                            <li>
+                                <p> Press <em>INSERT + J</em> to open the JAWS window.</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>ALT + H</em> to open "help".</p>
+                            </li>
+                            <li>
+                                <p> Press <em>ENTER</em> on "Training".</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>DOWN ARROW</em> to "Surf's Up".</p>
+                            </li>
+                            <li>
+                                <p> Press <em>ENTER</em> to open.</p>
+                            </li>
+                            <li>
+                                <p> Follow given instructions.</p>
+                            </li>
+                        </ul>
+                    </subsection>
+                </section>
+                <section>
+                    <title>Forms on the Internet</title>
+                    <p>There are many web sites with forms that you may interact with. You might fill out a form to request information, join a list, or purchase an item. </p>
+                    <p>When filling out a form with JAWS on, you will be in Forms Mode. Forms Mode automatically comes on when you come across an edit box that allows you to write. JAWS will beep to let you know you are in Forms Mode and can write.</p>
+                    <p>On a web page, <em>letter F</em> will jump forward by form. <em>SHIFT + F</em> will move back by form. Try this out when using JAWS to access a variety of web sites.</p>
+                    <subsection>
+                        <title>Quiz</title>
+                        <ul>
+                            <li>
+                                <p> How does JAWS let you know you are in the edit box of a form and able to write?</p>
+                            </li>
+                            <li>
+                                <p> How can you jump forward or back by form?</p>
+                            </li>
+                            <li>
+                                <p> List three reasons you may need to fill out a form on a web page.</p>
+                            </li>
+                        </ul>
+                    </subsection>
+                    <subsection>
+                        <title>Tasks</title>
+                        <p>Follow the steps to practice writing in forms.</p>
+                        <ul>
+                            <li>
+                                <p> Press <em>WINDOWS KEY + D</em> to bring focus to the desktop.</p>
+                            </li>
+                            <li>
+                                <p> Press <em>letter I</em> to focus on Microsoft Edge, Chrome, or Firefox.</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>ENTER</em> to bring up your home page.</p>
+                            </li>
+                            <li>
+                                <p> Press <em>ALT + d</em> to go to the address field.</p>
+                            </li>
+                            <li>
+                                <p> Write "http://www.nfb.org" and press <em>ENTER</em>.</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>TAB</em> to the link titled "request a free white cane" and press <em>ENTER</em>.</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>TAB</em> to the "online application for a white cane" link.</p>
+                            </li>
+                            <li>
+                                <p> Press <em>ENTER</em>.</p>
+                            </li>
+                            <li>
+                                <p> Press <em>letter F</em> to get to the first name edit box. JAWS will beep to let you know you are in Forms Mode. You don't have to write in the form for this example.</p>
+                            </li>
+                            <li>
+                                <p> At any time, you could press <em>ESCAPE</em> to exit Forms Mode.</p>
+                            </li>
+                            <li>
+                                <p> In the form, you can use <em>UP ARROW</em> or <em>DOWN ARROW</em> to navigate to edit boxes. Write anytime JAWS lets you know you are in a form.</p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>TAB</em> or <em>SHIFT + TAB</em> will also allow you to move around forms. Try this now.</p>
+                                <ul>
+                                    <li>
+                                        <p> If you want to go back to the top of the page, <em>ESCAPE</em> to get out of Forms Mode. Then you can use <em>CONTROL + HOME</em> to navigate to the top of the page.</p>
+                                    </li>
+                                    <li>
+                                        <p> Then navigate using commands available in Read Mode.</p>
+                                    </li>
+                                    <li>
+                                        <p> Remember to use <em>INSERT + F1</em> to get help.</p>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </subsection>
+                </section>
+                <section>
+                    <title>JAWS Keystrokes Checklist: Teacher Version</title>
+                    <table>
+                        <tabular>
+                            <row>
+                                <cell colspan="3">
+        Student:
+      </cell>
+                                <cell colspan="2">
+        Grade:
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell colspan="3">
+        [.5em]School:
+      </cell>
+                                <cell colspan="2">
+        TSVI:
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell halign="center" colspan="5" left="medium" right="medium">
+        [.5em] Prompt Hierarchy / Scoring
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium">
+        I = Independent
+      </cell>
+                                <cell>
+        FP = Full Physical
+      </cell>
+                                <cell>
+        PP = Partial Physical
+      </cell>
+                                <cell>
+        VP = Verbal Prompt
+      </cell>
+                                <cell right="medium">
+        VC = Verbal Cue
+      </cell>
+                            </row>
+                        </tabular>
+                    </table>
+                    <table>
+                        <tabular>
+                            <row>
+                                <cell colspan="3">
+        Student:
+      </cell>
+                                <cell colspan="2">
+        Grade:
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell colspan="3">
+        [.5em]School:
+      </cell>
+                                <cell colspan="2">
+        TSVI:
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell halign="center" colspan="5" left="medium" right="medium">
+        [.5em] Prompt Hierarchy / Scoring
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium">
+        I = Independent
+      </cell>
+                                <cell>
+        FP = Full Physical
+      </cell>
+                                <cell>
+        PP = Partial Physical
+      </cell>
+                                <cell>
+        VP = Verbal Prompt
+      </cell>
+                                <cell right="medium">
+        VC = Verbal Cue
+      </cell>
+                            </row>
+                        </tabular>
+                    </table>
+                </section>
+            </chapter>
+        </part>
+    </book>
+</pretext>
