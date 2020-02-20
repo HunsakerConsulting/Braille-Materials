@@ -5,7 +5,7 @@
             <title>DOUBLE SPACED TRACKING SHEETS</title>
             <chapter>
                 <title>SIMPLE BRAILLE TRACKING SHEETS</title>
-<p>These all need to be tracked using a braille display. for nvda and jaws, go into the braille submenu and set the braille display OUTPUT to US Computer braille </p>
+<p>These all need to be tracked using a braille display. for NVDA and JASWS, go into the braille submenu and set the braille display OUTPUT to US Computer braille (it will not show correctly with either Grade 1 or Grade 2 UEB) </p>
 <section><title>BASIC BRAILLE TRACKING SHEETS</title><subsection><title>.=c</title>
 
 <p>cccccccccccccccccccccccccccccccc</p>
@@ -743,7 +743,7 @@
 
 <p>zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz</p>
 
-</subsection></section><section><title>VARIABLE LENGTH LINES: SINGLE CHARACTER</title><subsection><title>cccccccccccccccccccccccccccccccc</title>
+</subsection></section><section><title>VARIABLE LENGTH LINES: SINGLE CHARACTER</title><subsection><title>.= c</title>
 
 <p>cccccccccccccccccccccccccccc</p>
 
@@ -767,7 +767,7 @@
 
 <p>ccccccccc</p>
 
-</subsection><subsection><title>ggggggggggggggggggggg</title>
+</subsection><subsection><title>.= g</title>
 
 <p>gggggggggg</p>
 
@@ -791,7 +791,7 @@
 
 <p>gggggggggggggggggggggggggggggg</p>
 
-</subsection><subsection><title>-------------</title>
+</subsection><subsection><title>-</title>
 
 <p>-------------------</p>
 
@@ -815,7 +815,7 @@
 
 <p>-------------</p>
 
-</subsection><subsection><title>===================</title>
+</subsection><subsection><title>=</title>
 
 <p>======================</p>
 
@@ -839,7 +839,7 @@
 
 <p>================================</p>
 
-</subsection><subsection><title>3333333333333333333333</title>
+</subsection><subsection><title>3</title>
 
 <p>33333333333333333333333333333333</p>
 
@@ -863,7 +863,7 @@
 
 <p>3333333333333333333333333333333</p>
 
-</subsection></section><section><title>VARIABLE LENGTH LINES: RANDOM LETTERS</title><subsection><title>fcgrayblmhuqvtehwmfeljupxdjjhle</title>
+</subsection></section><section><title>VARIABLE LENGTH LINES: RANDOM LETTERS</title><subsection><title>Letters</title>
 
 <p>xgmzfqfouatwhytariouiafurkewtpqu</p>
 
@@ -887,7 +887,7 @@
 
 <p>lgrnxmlmqnnytihwgyrxrlkvlwwkpbmy</p>
 
-</subsection><subsection><title>htazawheviiurfrsufmjdorf</title>
+</subsection><subsection><title>Letters</title>
 
 <p>edxhylghtboylmulousukqbadcljqdzw</p>
 
@@ -911,7 +911,7 @@
 
 <p>dezwkqzjiqgfyacxhlijspgyc</p>
 
-</subsection><subsection><title>zftbjzymbocvsfkeyspxahqbytcrqgjb</title>
+</subsection><subsection><title>Letters</title>
 
 <p>nmqsysfnrlgjbzmfxuysvmvgfgkjj</p>
 
@@ -935,7 +935,7 @@
 
 <p>vehmsddqvyszpxkrizvazz</p>
 
-</subsection><subsection><title>efvpweekmekkkngfsfwadxkpodrjdayu</title>
+</subsection><subsection><title>Letters</title>
 
 <p>ypuogtdyfgyzberjguxfqmssbszmbmeb</p>
 
@@ -959,7 +959,7 @@
 
 <p>sxfcsqiedahcmnlirgyffnnnp</p>
 
-</subsection><subsection><title>cgfncyipyawzwecnsezdlxznlhudnvsb</title>
+</subsection><subsection><title>Letters</title>
 
 <p>dhnxtqpxjpknpblwamwufxtkxhddlltv</p>
 
@@ -983,7 +983,7 @@
 
 <p>perkprfvhvrlcqiyoamqlabk</p>
 
-</subsection><subsection><title>rbmjzaknukymkmnnrdfaxnefilinmbb</title>
+</subsection><subsection><title>Letters</title>
 
 <p>iorljkvklpntwclnlicuhwfuwma</p>
 
@@ -1007,7 +1007,7 @@
 
 <p>niosyfurokppgqrnfaumdxmqi</p>
 
-</subsection><subsection><title>jmdakxaeffktiaubsafcwysnhartyyrs</title>
+</subsection><subsection><title>Letters</title>
 
 <p>hmmibgumxxpgnciknkufbendbbbf</p>
 
@@ -1031,7 +1031,7 @@
 
 <p>upblbveutvqnnodqxfeprmoyuwblfwpd</p>
 
-</subsection><subsection><title>dhmhfkbknsqfdefpyjgjhqypizhpqnsc</title>
+</subsection><subsection><title>Letters</title>
 
 <p>tcqwxsmblgpfexcmggchmkkcilzfedlr</p>
 
@@ -1055,7 +1055,7 @@
 
 <p>etmhcgztccynaqtfuontkplomwnziimn</p>
 
-</subsection><subsection><title>kfgdeoavtpvwjazsdxnozxzynnpzfhzu</title>
+</subsection><subsection><title>Letters</title>
 
 <p>vislzvpzfpesqbwhmqodgiultqnqohwp</p>
 
@@ -1079,7 +1079,7 @@
 
 <p>nfssjielaazutukpgtuiuenzmrhlmbjb</p>
 
-</subsection><subsection><title>wvdeoxeckioykduvrfkbioklruyjqyjt</title>
+</subsection><subsection><title>Letters</title>
 
 <p>rwwhrtttctwvtkvhkouyukxxaawirnjz</p>
 
@@ -1103,7 +1103,7 @@
 
 <p>tdqbyqyfvbcblanjhohhiqytzbxwg</p>
 
-</subsection><subsection><title>kxgbbicraifowfrwbsptskiegcessyvj</title>
+</subsection><subsection><title>Letters</title>
 
 <p>dollanqgoontppjzygtlsbbakjemrlbs</p>
 
@@ -1127,7 +1127,7 @@
 
 <p>sjugzbhqflhhcijonvgrnkihnpsnvpah</p>
 
-</subsection><subsection><title>dhmhfkbknsqfdefpyjgjhqypizhpqnsc</title>
+</subsection><subsection><title>Letters</title>
 
 <p>tcqwxsmblgpfexcmggchmkkcilzfedlr</p>
 
@@ -1151,7 +1151,7 @@
 
 <p>etmhcgztccynaqtfuontkplomwnziimn</p>
 
-</subsection><subsection><title>kfgdeoavtpvwjazsdxnozxzynnpzfhzu</title>
+</subsection><subsection><title>Letters</title>
 
 <p>vislzvpzfpesqbwhmqodgiultqnqohwp</p>
 
@@ -1175,7 +1175,7 @@
 
 <p>nfssjielaazutukpgtuiuenzmrhlmbjb</p>
 
-</subsection><subsection><title>wvdeoxeckioykduvrfkbioklruyjqyjt</title>
+</subsection><subsection><title>Letters</title>
 
 <p>rwwhrtttctwvtkvhkouyukxxaawirnjz</p>
 
@@ -1199,7 +1199,7 @@
 
 <p>tdqbyqyfvbcblanjhohhiqytzbxwg</p>
 
-</subsection><subsection><title>kxgbbicraifowfrwbsptskiegcessyvj</title>
+</subsection><subsection><title>Letters</title>
 
 <p>dollanqgoontppjzygtlsbbakjemrlbs</p>
 
@@ -3072,7 +3072,7 @@
                 <section>
                     <title>VARIABLE LENGTH LINES: SINGLE CHARACTER</title>
                     <subsection>
-                        <title>cccccccccccccccccccccccccccccccc</title>
+                        <title>.= c</title>
 <p>cccccccccccccccccccccccccc</p>
 <p>ccccccccccccccccccc</p>
 <p>ccccccccccccccccccccccccc</p>
@@ -3098,7 +3098,7 @@
 <p>ccccccccccccccccccccccccc</p>
 </subsection>
                     <subsection>
-                        <title>ggggggggg</title>
+                        <title>.= g</title>
 <p>gggggggggggggggggg</p>
 <p>ggggggggggggggggg</p>
 <p>ggggggggggg</p>
@@ -3124,7 +3124,7 @@
 <p>ggggggggggggggggggggg</p>
 </subsection>
                     <subsection>
-                        <title>----------------------</title>
+                        <title>-</title>
 <p>---------</p>
 <p>--------------------------</p>
 <p>---------------------------</p>
@@ -3150,7 +3150,7 @@
 <p>-------------------------</p>
 </subsection>
                     <subsection>
-                        <title>================================</title>
+                        <title>=</title>
 <p>==========</p>
 <p>===============================</p>
 <p>=========================</p>
@@ -3176,7 +3176,7 @@
 <p>======================</p>
 </subsection>
                     <subsection>
-                        <title>33333333333333333333333333333333</title>
+                        <title>3</title>
 <p>333333333333333</p>
 <p>3333333333333333333333333333</p>
 <p>33333333333333333333333333333333</p>
@@ -3205,7 +3205,7 @@
                 <section>
                     <title>VARIABLE LENGTH LINE: RANDOM CHARACTERS</title>
                     <subsection>
-                        <title>usckfcppygnfrkosniowftfwwtgwyurq</title>
+                        <title>Letters</title>
 <p>agykrxfxcnnqrqhlpvvyononzjtcyusl</p>
 <p>jvsoicymnwwgeckbhsdbjyczrrzirk</p>
 <p>wsllrlsztgpozctgvguinohq</p>
@@ -3231,7 +3231,7 @@
 <p>gwbquecxmtysvgfetmjxjzmznjypeuhz</p>
 </subsection>
                     <subsection>
-                        <title>rfjvvbogtpkvlmwvwhllsvdjbhtqqwr</title>
+                        <title>Letters</title>
 <p>dxwsgxwcixamjkbjczkbru</p>
 <p>znunjriawmbybgzocqpvbskdpywij</p>
 <p>bxwnzpsxxvjjxaxqflpzhsubzud</p>
@@ -3257,7 +3257,7 @@
 <p>cgbjgzovoveflsimmkmatogusyefwfon</p>
 </subsection>
                     <subsection>
-                        <title>klnficcpfhdtiqysxqkhpelrwdifrdpw</title>
+                        <title>Letters</title>
 <p>uqfzxqrmedrbinfvomlwydakygrcmyvm</p>
 <p>rdzqfibquiouefisxwllbc</p>
 <p>wmziiaxhngxllkkicjaqyojqvakylz</p>
@@ -3283,7 +3283,7 @@
 <p>dgvhcmvrmuwktjkvapcran</p>
 </subsection>
                     <subsection>
-                        <title>bhpozvrfjzgovcezmpwzyvokhez</title>
+                        <title>Letters</title>
 <p>xlvjinefzfzclmoiumtnyztxz</p>
 <p>oixhmiemxtdpvnjalfceac</p>
 <p>ciuivrsekshtieqcsljhoczruvgdamsl</p>
@@ -3309,7 +3309,7 @@
 <p>mhsjzomrumdxxezkpgsqultvh</p>
 </subsection>
                     <subsection>
-                        <title>ycprtjlvkqjdpndkkhtexlzjasjtm</title>
+                        <title>Letters</title>
 <p>ssphvvrpjtkloshahhbwzlnhqeyymjdz</p>
 <p>poqcnobdnmzsuaujnzwkhdhowuhmwnox</p>
 <p>xwgigqmjjhbepagkvkfmjh</p>
@@ -3335,7 +3335,7 @@
 <p>xgcreyxpsdprjnmdjbeqxbmqnzpa</p>
 </subsection>
                     <subsection>
-                        <title>apyhnzyanmxlheizjwtkbbiytrw</title>
+                        <title>Letters</title>
 <p>wkwnncsfwviqzxyfyxbywqgodruwwtat</p>
 <p>atgkoevdyymzilmifvxswx</p>
 <p>mosbnatywtwazwrpbkpeuppytkupgjsr</p>
@@ -3361,7 +3361,7 @@
 <p>qvweohsalgnsmnqqdvlmtmhysfkolbjr</p>
 </subsection>
                     <subsection>
-                        <title>qmclgjvsrzhedaplgmeevx</title>
+                        <title>Letters</title>
 <p>hquicmpknzsuazqubfuezvydml</p>
 <p>tibhcfjeiovmnogpbvtxatyubramnszy</p>
 <p>ivzktwafaxuicfsknmptuksdckko</p>
@@ -3387,7 +3387,7 @@
 <p>lpqgerqgavkterrplecuvnbxd</p>
 </subsection>
                     <subsection>
-                        <title>tdcimdsnjiubftktbgiekofizahyhsge</title>
+                        <title>Letters</title>
 <p>gkpfpwalcemlpmpdsgdkqfqubkrkpxny</p>
 <p>myteqzwddtjqczgxdthcfipza</p>
 <p>sxnwliwinqasericsvtgomowyfzzdcss</p>
@@ -3413,7 +3413,7 @@
 <p>hqlftxlsdfiwaaaxsotzqvvjmfdntogd</p>
 </subsection>
                     <subsection>
-                        <title>kkxdlhglhhnwtqeksuvkfdsjdlflrudg</title>
+                        <title>Letters</title>
 <p>pyeuyqzwyuzemzgvunvlnrnqlbhyfy</p>
 <p>pgbkwqkitfbpicahbedsjq</p>
 <p>apbfwfrgbmgpfdudggqrffgzmouakxsd</p>
@@ -3439,7 +3439,7 @@
 <p>xhuklnmnyvrcrkwipzppmtgaq</p>
 </subsection>
                     <subsection>
-                        <title>zoziopmwxcvajxxrvbaczezxuupa</title>
+                        <title>Letters</title>
 <p>grfcarlndsjsiulylptsraf</p>
 <p>yvvfjerzpdmeytyhxpgjpks</p>
 <p>imryihljxknncyifqpsmrstyedkdtlox</p>
@@ -3465,7 +3465,7 @@
 <p>tfetrsiyikpsuvwnbbjeozfiqzpmcdyj</p>
 </subsection>
                     <subsection>
-                        <title>ofdkdayapdkzjqvboalcjcxdhmdohgti</title>
+                        <title>Letters</title>
 <p>ccnzsqjgyebslqoqsbgfbjdcwfukcc</p>
 <p>rvwsgpjccxsoohjklvlfon</p>
 <p>bgrwgxykjkokmdsjlmrahelvetpzoiwh</p>
@@ -3491,7 +3491,7 @@
 <p>rntedxxfdthymuqixisetimsznxovfdv</p>
 </subsection>
                     <subsection>
-                        <title>cvtlgtvsoocvwaoheyypqpqfiijmz</title>
+                        <title>Letters</title>
 <p>gkkhaibeeedcqtogdqvibffvtab</p>
 <p>wkekbtyimhhbswyzehmyug</p>
 <p>yhmjzfiqzfrmfbndtseudrhtjrojqtl</p>
@@ -3809,7 +3809,7 @@
                 <section>
                     <title>TWO HAND TRACKING PRACTICE: CENTRAL BAR</title>
                     <subsection>
-                        <title>jqaadjfijmmxvpxwef l otogdhxjpgt</title>
+                        <title>Letters l Letters</title>
 <p>nrdhmyhxibdoootslb l gunlmwikvmp</p>
 <p>twpksjmaqxwnvpggkf l ucqbxbsjpwr</p>
 <p>sybfqipdnnhciwwiwk l rqdgaxvkpcx</p>
@@ -3835,7 +3835,7 @@
 <p>vdhqrkyrrbredqydye l auiwhmafdnm</p>
 </subsection>
                     <subsection>
-                        <title>wvgfvwhavlydmhkwqs l hxnvibtqrll</title>
+                        <title>Letters l Letters</title>
 <p>xafpxlnshrafizidpj l fudkivcylri</p>
 <p>phanaegjlnwptftfri l hnyimrwlhbo</p>
 <p>qemsruyjzhsdqelcpu l zjvkrkzyglx</p>
@@ -3861,7 +3861,7 @@
 <p>lzffksslkblfznrfei l ajbfzrwzhbl</p>
 </subsection>
                     <subsection>
-                        <title>imkfxbfxqdpgfexyfo l spfubktajwj</title>
+                        <title>Letters l Letters</title>
 <p>dwgdgvvoermnjjzhrv l lhfkkxzsydh</p>
 <p>rcnoojfhlnvruducmm l whtpcfrtxxc</p>
 <p>ejzwqnypwrhxsbysby l nmcnxhzjaot</p>
@@ -3887,7 +3887,7 @@
 <p>piifbrbzpyqenxgexv l znwryelhnyg</p>
 </subsection>
                     <subsection>
-                        <title>xpbtdczjyigszmuodg l wufuvoancnv</title>
+                        <title>Letters l Letters</title>
 <p>hjclszlxruuzmrsedt l lufgghqnaeb</p>
 <p>ufkeevellymtqccgke l vwgtgacxeuy</p>
 <p>vawibzbfuzgmbwlyzd l cdgsyxvnasz</p>
@@ -3913,8 +3913,7 @@
 <p>liwtibnnfeuisplpck l zyuehebadmm</p>
 </subsection>
                     <subsection>
-                        <title>grytzoqfnyzrxgnijc l soykvirelib</title>
-<p>fqcaujwxvqjjbdiwen l lctenlglehq</p>
+                        <title>Letters l Letters</title><p>fqcaujwxvqjjbdiwen l lctenlglehq</p>
 <p>gzlupjpwawjmoxburz l nkiveybvjaq</p>
 <p>ydlgkhqroemlwzihvk l bgovqizsvcm</p>
 <p>rupmoyvnnaosifkgxz l mlaygqndqca</p>
@@ -3939,7 +3938,7 @@
 <p>adxmsnuycxikxihkgb l yiewcttrwjn</p>
 </subsection>
                     <subsection>
-                        <title>yfuepnsathfszbibig l styxbolozlf</title>
+                        <title>Letters l Letters</title>
 <p>lqcufokkufbggezmix l kfjbsorgrji</p>
 <p>gbjtloiwqsbhsizaxs l eokqjaxlbdp</p>
 <p>bdrfgsvajdavugiuvn l awksdwflpov</p>
@@ -3965,7 +3964,7 @@
 <p>nyjgaqmsflndwfidzs l uecmrrvqxey</p>
 </subsection>
                     <subsection>
-                        <title>exkkukgissmokpaggt l bvjpkmbgalu</title>
+                        <title>Letters l Letters</title>
 <p>vohydpbribtswpxrvu l zijsgrupaed</p>
 <p>wsgudnszsrdrnncist l pcumltzgohy</p>
 <p>whwzinhpyyytpqtizm l ggaqnsgrtav</p>
@@ -3991,7 +3990,7 @@
 <p>iniufhwwevilbshzvn l bqqvuoixqgx</p>
 </subsection>
                     <subsection>
-                        <title>ltrbftndsqzcvzdbok l zhygmwirxtp</title>
+                        <title>Letters l Letters</title>
 <p>mymgledvtqendliwnc l qpogrosanir</p>
 <p>uafcghhynegzpmxldd l uoeqnchjrak</p>
 <p>zkfdzwxqbtlvncfput l spbyjnshviu</p>
@@ -4017,7 +4016,7 @@
 <p>apxbtkpplvouxxnocf l tszieozbsdh</p>
 </subsection>
                     <subsection>
-                        <title>camvxlwgzbyypeboul l rwbmntldudu</title>
+                        <title>Letters l Letters</title>
 <p>owngqfljqtyxgpttjg l sgrukhtzywp</p>
 <p>rbbcgurrffdrprqqec l vdeqjksmreo</p>
 <p>jxqvermtjntfdbkrwm l xntminbrqzk</p>
@@ -4043,7 +4042,7 @@
 <p>kfxtegomowsxjsezow l xbyhzttcwqa</p>
 </subsection>
                     <subsection>
-                        <title>upvtkuqfcxiszlcste l fdzisqghfcp</title>
+                        <title>Letters l Letters</title>
 <p>dikwkoxhjbnztqvugv l hnozjdpvesq</p>
 <p>xlsiehsdmatzpxxgaz l xbrumzxugzi</p>
 <p>nzozyssyveeikfyzus l otlkvpnnofv</p>
@@ -4069,7 +4068,7 @@
 <p>neacorlaxlendwhlkw l dieldeullnw</p>
 </subsection>
                     <subsection>
-                        <title>evtzvgaphsbuuvltkz l qbfxedbznet</title>
+                        <title>Letters l Letters</title>
 <p>pufcrtazpbbgmiojxj l wjfomkdmwnk</p>
 <p>xobwhskfjtjbzykajc l qxhskuqzfbq</p>
 <p>oapfrimzsytnbbvdqh l euagencikzl</p>
@@ -4098,7 +4097,7 @@
                 <section>
                     <title>TWO HAND TRACKING: NO CENTRAL BAR</title>
                     <subsection>
-                        <title>jqaadjfijmmxvpxwef   otogdhxjpgt</title>
+                        <title>Letters   Letters</title>
 <p>nrdhmyhxibdoootslb   gunlmwikvmp</p>
 <p>twpksjmaqxwnvpggkf   ucqbxbsjpwr</p>
 <p>sybfqipdnnhciwwiwk   rqdgaxvkpcx</p>
@@ -4124,7 +4123,7 @@
 <p>vdhqrkyrrbredqydye   auiwhmafdnm</p>
 </subsection>
                     <subsection>
-                        <title>wvgfvwhavlydmhkwqs   hxnvibtqrll</title>
+                        <title>Letters   Letters</title>
 <p>xafpxlnshrafizidpj   fudkivcylri</p>
 <p>phanaegjlnwptftfri   hnyimrwlhbo</p>
 <p>qemsruyjzhsdqelcpu   zjvkrkzyglx</p>
@@ -4150,7 +4149,7 @@
 <p>lzffksslkblfznrfei   ajbfzrwzhbl</p>
 </subsection>
                     <subsection>
-                        <title>imkfxbfxqdpgfexyfo   spfubktajwj</title>
+                        <title>Letters   Letters</title>
 <p>dwgdgvvoermnjjzhrv   lhfkkxzsydh</p>
 <p>rcnoojfhlnvruducmm   whtpcfrtxxc</p>
 <p>ejzwqnypwrhxsbysby   nmcnxhzjaot</p>
@@ -4176,7 +4175,7 @@
 <p>piifbrbzpyqenxgexv   znwryelhnyg</p>
 </subsection>
                     <subsection>
-                        <title>xpbtdczjyigszmuodg   wufuvoancnv</title>
+                        <title>Letters   Letters</title>
 <p>hjclszlxruuzmrsedt   lufgghqnaeb</p>
 <p>ufkeevellymtqccgke   vwgtgacxeuy</p>
 <p>vawibzbfuzgmbwlyzd   cdgsyxvnasz</p>
@@ -4202,7 +4201,7 @@
 <p>liwtibnnfeuisplpck   zyuehebadmm</p>
 </subsection>
                     <subsection>
-                        <title>grytzoqfnyzrxgnijc   soykvirelib</title>
+                        <title>Letters   Letters</title>
 <p>fqcaujwxvqjjbdiwen   lctenlglehq</p>
 <p>gzlupjpwawjmoxburz   nkiveybvjaq</p>
 <p>ydlgkhqroemlwzihvk   bgovqizsvcm</p>
@@ -4228,7 +4227,7 @@
 <p>adxmsnuycxikxihkgb   yiewcttrwjn</p>
 </subsection>
                     <subsection>
-                        <title>yfuepnsathfszbibig   styxbolozlf</title>
+                        <title>Letters   Letters</title>
 <p>lqcufokkufbggezmix   kfjbsorgrji</p>
 <p>gbjtloiwqsbhsizaxs   eokqjaxlbdp</p>
 <p>bdrfgsvajdavugiuvn   awksdwflpov</p>
@@ -4254,7 +4253,7 @@
 <p>nyjgaqmsflndwfidzs   uecmrrvqxey</p>
 </subsection>
                     <subsection>
-                        <title>exkkukgissmokpaggt   bvjpkmbgalu</title>
+                        <title>Letters   Letters</title>
 <p>vohydpbribtswpxrvu   zijsgrupaed</p>
 <p>wsgudnszsrdrnncist   pcumltzgohy</p>
 <p>whwzinhpyyytpqtizm   ggaqnsgrtav</p>
@@ -4280,7 +4279,7 @@
 <p>iniufhwwevilbshzvn   bqqvuoixqgx</p>
 </subsection>
                     <subsection>
-                        <title>ltrbftndsqzcvzdbok   zhygmwirxtp</title>
+                        <title>Letters   Letters</title>
 <p>mymgledvtqendliwnc   qpogrosanir</p>
 <p>uafcghhynegzpmxldd   uoeqnchjrak</p>
 <p>zkfdzwxqbtlvncfput   spbyjnshviu</p>
@@ -4306,7 +4305,7 @@
 <p>apxbtkpplvouxxnocf   tszieozbsdh</p>
 </subsection>
                     <subsection>
-                        <title>camvxlwgzbyypeboul   rwbmntldudu</title>
+                        <title>Letters   Letters</title>
 <p>owngqfljqtyxgpttjg   sgrukhtzywp</p>
 <p>rbbcgurrffdrprqqec   vdeqjksmreo</p>
 <p>jxqvermtjntfdbkrwm   xntminbrqzk</p>
@@ -4332,7 +4331,7 @@
 <p>kfxtegomowsxjsezow   xbyhzttcwqa</p>
 </subsection>
                     <subsection>
-                        <title>upvtkuqfcxiszlcste   fdzisqghfcp</title>
+                        <title>Letters   Letters</title>
 <p>dikwkoxhjbnztqvugv   hnozjdpvesq</p>
 <p>xlsiehsdmatzpxxgaz   xbrumzxugzi</p>
 <p>nzozyssyveeikfyzus   otlkvpnnofv</p>
@@ -4358,7 +4357,7 @@
 <p>neacorlaxlendwhlkw   dieldeullnw</p>
 </subsection>
                     <subsection>
-                        <title>evtzvgaphsbuuvltkz   qbfxedbznet</title>
+                        <title>Letters  Letters </title>
 <p>pufcrtazpbbgmiojxj   wjfomkdmwnk</p>
 <p>xobwhskfjtjbzykajc   qxhskuqzfbq</p>
 <p>oapfrimzsytnbbvdqh   euagencikzl</p>
@@ -4515,7 +4514,7 @@
                 <section>
                     <title>SPACED CHARACTER PAIR READING</title>
                     <subsection>
-                        <title>fp     ii     qq     js     pn</title>
+                        <title>Pairs</title>
 
 <p>ip     od     xn     hw     bl</p>
 
@@ -4541,7 +4540,7 @@
 
 </subsection>
                     <subsection>
-                        <title>hg     pe     mm     km     gg</title>
+                        <title>Pairs</title>
 
 <p>gj     sy     dr     sc     jv</p>
 
@@ -4567,7 +4566,7 @@
 
 </subsection>
                     <subsection>
-                        <title>lu     ty     dk     hx     fj</title>
+                        <title>Pairs</title>
 
 <p>vl     so     hm     vc     rv</p>
 
@@ -4593,7 +4592,7 @@
 
 </subsection>
                     <subsection>
-                        <title>vm     at     gm     sj     qm</title>
+                        <title>Pairs</title>
 
 <p>bj     ec     uc     id     gu</p>
 
@@ -4619,7 +4618,7 @@
 
 </subsection>
                     <subsection>
-                        <title>bm     hd     pv     tq     zv</title>
+                        <title>Pairs</title>
 
 <p>aq     br     tr     zd     wa</p>
 
@@ -4645,7 +4644,7 @@
 
 </subsection>
                     <subsection>
-                        <title>dc     gx     gj     zk     yr</title>
+                        <title>Pairs</title>
 <p>xb     dw     ew     qx     vn</p>
 <p>ib     rq     wq     mu     ae</p>
 <p>ud     sp     kl     fk     dv</p>
@@ -4671,7 +4670,7 @@
 
 </subsection>
                     <subsection>
-                        <title>333333333333333 fp 3333333333333</title>
+                        <title>Same or Different</title>
 
 <p>333333333333333 ii 3333333333333</p>
 
@@ -4697,7 +4696,7 @@
 
 </subsection>
                     <subsection>
-                        <title>333333333333333 qh 3333333333333</title>
+                        <title>Same or Different</title>
 
 <p>333333333333333 cu 3333333333333</p>
 
@@ -4723,7 +4722,7 @@
 
 </subsection>
                     <subsection>
-                        <title>333333333333333 wo 3333333333333</title>
+                        <title>Same or Different</title>
 
 <p>333333333333333 de 3333333333333</p>
 
@@ -4749,7 +4748,7 @@
 
 </subsection>
                     <subsection>
-                        <title>333333333333333 rb 3333333333333</title>
+                        <title>Same or Different</title>
 <p>333333333333333 md 3333333333333</p>
 <p>333333333333333 qp 3333333333333</p>
 <p>333333333333333 tn 3333333333333</p>
@@ -4775,7 +4774,7 @@
 <p>333333333333333 rc 3333333333333</p>
 </subsection>
                     <subsection>
-                        <title>333333333333333 hg 3333333333333</title>
+                        <title>Same or Different</title>
 <p>333333333333333 pe 3333333333333</p>
 <p>333333333333333 mm 3333333333333</p>
 <p>333333333333333 km 3333333333333</p>
@@ -5796,7 +5795,7 @@
                 <section>
                     <title>UNSPECIFIED LETTER SEARCH</title>
                     <subsection>
-                        <title>tw3pfqgy32v37z8laj4iwey21ernswx=</title>
+                        <title>.= </title>
 <p>4a1hqp8x=k2meyigr=xnyax55c8809=j</p>
 <p>167fi-epkj81qnh15y-pgfkroo7phlac</p>
 <p>77veoz5640ie3376=jsq2edwssrbhlor</p>
@@ -5822,7 +5821,7 @@
 <p>h6w7wjsm9wi3lx-k09s31ok-vy08x6eg</p>
 </subsection>
                     <subsection>
-                        <title>q=z99fi6=qr2flax1emx3o9ascu8vbqc</title>
+                        <title>.= </title>
 <p>xi6cvrq5zckhjuzvjim9mmkhfj305v1j</p>
 <p>3nj3g1t=5if=ubgklq5bpjv=tbvvg92c</p>
 <p>=ks5-thwqru=cku5h0jli62g9cgcxja0</p>
@@ -5848,7 +5847,7 @@
 <p>c7hsr62b1s=kc9n=x0an6112fq0dipoi</p>
 </subsection>
                     <subsection>
-                        <title>nr5pot2x5u28g2zqdtfhl6sx8auo64vl</title>
+                        <title>.= </title>
 <p>ci1-mikr2sj297ymoz9py87h2ncg7-yr</p>
 <p>qlie2dbsbvrzm=klxxumo7radpen-87e</p>
 <p>d7z12tykvj100caz=54-i3sayicntaba</p>
@@ -5874,7 +5873,7 @@
 <p>nr8lbb56ygwhswp1l63zhwtb1844=9dv</p>
 </subsection>
                     <subsection>
-                        <title>8whr43k9k5zmftox67cdv4yuakk37f0t</title>
+                        <title>.= </title>
 <p>lh6e6ju8rlmgcm7v4afq1=gr3dsa28fk</p>
 <p>zw7qxuz870o074=z4013596=lzaiz90n</p>
 <p>23lo7cns5tubsfyizii9zzgubowcg2kn</p>
@@ -5900,7 +5899,7 @@
 <p>kv2zrz2dmjfr8iy71z2hc8fp43virtdy</p>
 </subsection>
                     <subsection>
-                        <title>q=6tq=64mta27s5tqxw5-irvvwa28902</title>
+                        <title>.= </title>
 <p>emh8p=urlzownc1sexgden2g0r71=xa4</p>
 <p>sipdf962drzmko7re5eu=8e91s1o5hjp</p>
 <p>txa2y602r07qtnvfls5fpdullz07-9wx</p>
@@ -5926,7 +5925,7 @@
 <p>xoxdry4t5j1yhhowxai5c0oyjaeyeme8</p>
 </subsection>
                     <subsection>
-                        <title>=z4imrd18yx0kbio6rtsp98fsr3ymmpu</title>
+                        <title>.= </title>
 <p>teny2mlavau9ujnftgjq8nupr7ed==rt</p>
 <p>ufjqv3ivhi45=lwe7f0rno8z6tegvd47</p>
 <p>pq810blfbzep8xb89mwlr49gmsr9fqgz</p>
@@ -5952,7 +5951,7 @@
 <p>c-6p6d416lxg17hqfko3==7jw34pyfxn</p>
 </subsection>
                     <subsection>
-                        <title>h5o5sbwzfla0x5xwzxijx=dn9i-iv7ta</title>
+                        <title>.= </title>
 <p>4lokru2-eowzk9tpnney4cd=h8dk345e</p>
 <p>cck903t6vkvublmc1956-o0t-r9=-hef</p>
 <p>6rzyemc5ct8jsah16hltf9of66z0q4aw</p>
@@ -5978,7 +5977,7 @@
 <p>dz85fvcgvromy6sxc0yaksj7hq7695sg</p>
 </subsection>
                     <subsection>
-                        <title>6vmm-fkta4nedd9bbwql4r275vmvn5ar</title>
+                        <title>.= </title>
 <p>mlfh3cys4auy6-7znuhf2yu5d1mywb=w</p>
 <p>wuiic=ndrpctvu73rsomsurgc74xbo=4</p>
 <p>kxx1w437=vev2vx82h0jl=q4l1lj1zhb</p>
@@ -6004,7 +6003,7 @@
 <p>1u=f3=85d7n5-al4o32v6taj6oo0w8d=</p>
 </subsection>
                     <subsection>
-                        <title>8p3z4qt-01vkauew38v0m-wcocggmy-n</title>
+                        <title>.= </title>
 <p>820uy1h51x4b17xcnyktqrrjos3m8xtl</p>
 <p>a8k1eswhnn92xhi-8sip35604qofseg-</p>
 <p>80j5u8zw3mhr==c=otmifhcl7caenzgr</p>
@@ -6030,7 +6029,7 @@
 <p>w3s=1i2vb-6pay9wyk95y68u7buzyuj-</p>
 </subsection>
                     <subsection>
-                        <title>310npm=a34wlrdeq6vb1v-0bk9y56tcl</title>
+                        <title>.= </title>
 <p>7pecvm2q6-d06e8fusc5uth23flsrm7u</p>
 <p>xfjxb2ea9=t8-2fd3dqz1hx0lgn0lhlc</p>
 <p>9cmvncwe-cw0e-z3m2i4s-m0okzpxpsk</p>
@@ -6056,7 +6055,7 @@
 <p>m-e2hvxwpbflhb=yyzfwob0z7eejl3nm</p>
 </subsection>
                     <subsection>
-                        <title>yroz6hyvqosjad72vv=1o309rtvmvkxd</title>
+                        <title>.= </title>
 <p>78-yylsyn7civd-68bz7-22i3ebc3wlx</p>
 <p>iov92mmk0txhpn-fzbpgt-ocf8o5x3wd</p>
 <p>65p0zmf4unmepoluu97sqtbufyioliyk</p>
@@ -6082,7 +6081,7 @@
 <p>9z9afjkyvx0mudefvtlj=kv46rvznlga</p>
 </subsection>
                     <subsection>
-                        <title>3b1qeo1u4q6yvwd8gd8pz0qqm69pflfk</title>
+                        <title>.= </title>
 <p>notcm27su=efo8bmitjersicfit--blv</p>
 <p>mncxnnj8o5abgb7wh84en7dvf7f29=p7</p>
 <p>3uf2ixbyguux3rg559hdwoez41v6en1f</p>
@@ -6108,7 +6107,7 @@
 <p>gszdxou4irdxd32q8-xzlvlpey=vtayt</p>
 </subsection>
                     <subsection>
-                        <title>p04wkb6dufvk444vz4dsrb4mmk7gvx9y</title>
+                        <title>.= </title>
 <p>=3xn-94xetzmuxyll8rd5h=ri0qabce=</p>
 <p>awrzu1xsusu26s2rty=5hvua9tlc1owk</p>
 <p>vc1v5hzq8=nivetw2x6rvphq-djwico7</p>
@@ -6134,7 +6133,7 @@
 <p>wgo-=j6x36mu-qhjxb2-vvr46z6h40em</p>
 </subsection>
                     <subsection>
-                        <title>di3lmcnjmmz68ir3b26zsiw8g3pfmaa3</title>
+                        <title>.= </title>
 <p>7qre5c7frwbaq2wh4amat25i7z=ixkn8</p>
 <p>hs1bl-5mjazmx4rlz5sr6ujx9rl6zk8s</p>
 <p>l3sy=afjql-j0fct9lvgciw-1zrlaza0</p>
@@ -6163,7 +6162,7 @@
                 <section>
                     <title>CHARACTER MATCH: EASY FOILS</title>
                     <subsection>
-                        <title>a      a   "   1   7</title>
+                        <title>.= a</title>
 
 <p>a      7   "   7   a</p>
 
@@ -6189,7 +6188,7 @@
 
 </subsection>
                     <subsection>
-                        <title>a      7   -   3   7</title>
+                        <title>.= a</title>
 
 <p>a      a   3   7   7</p>
 
@@ -6215,7 +6214,7 @@
 
 </subsection>
                     <subsection>
-                        <title>a      a   1   a   a</title>
+                        <title>.= a</title>
 
 <p>a      a   7   a   a</p>
 
@@ -6241,7 +6240,7 @@
 
 </subsection>
                     <subsection>
-                        <title>a      7   7   7   1</title>
+                        <title>.= a</title>
 
 <p>a      3   "   "   1</p>
 
@@ -6267,7 +6266,7 @@
 
 </subsection>
                     <subsection>
-                        <title>a      =   a   =   =</title>
+                        <title>.= a</title>
 
 <p>a      3   1   3   1</p>
 
@@ -6293,7 +6292,7 @@
 
 </subsection>
                     <subsection>
-                        <title>a      1   3   -   "</title>
+                        <title>.= a</title>
 
 <p>a      a   3   7   1</p>
 
@@ -6319,7 +6318,7 @@
 
 </subsection>
                     <subsection>
-                        <title>a      -   1   "   -</title>
+                        <title>.= a</title>
 
 <p>a      3   3   -   1</p>
 
@@ -6345,7 +6344,7 @@
 
 </subsection>
                     <subsection>
-                        <title>a      =   -   3   3</title>
+                        <title>.= a</title>
 
 <p>a      3   7   a   =</p>
 
@@ -6371,7 +6370,7 @@
 
 </subsection>
                     <subsection>
-                        <title>b      =   3   -   -</title>
+                        <title>.= b</title>
 
 <p>b      =   7   =   3</p>
 
@@ -6398,7 +6397,7 @@
 <p>b      3   "   3   b            </p>
 </subsection>
                     <subsection>
-                        <title>b      =   -   7   -</title>
+                        <title>.= b</title>
 
 <p>b      -   "   -   b</p>
 
@@ -6425,7 +6424,7 @@
 <p>b      7   3   7   =            </p>
 </subsection>
                     <subsection>
-                        <title>b      1   1   3   1</title>
+                        <title>.= b</title>
 
 <p>b      -   1   "   1</p>
 
@@ -6452,7 +6451,7 @@
 <p>b      3   =   =   1            </p>
 </subsection>
                     <subsection>
-                        <title>b      "   3   7   b</title>
+                        <title>.= b</title>
 
 <p>b      "   7   b   3</p>
 
@@ -6479,7 +6478,7 @@
 <p>b      =   1   1   "            </p>
 </subsection>
                     <subsection>
-                        <title>b      =   3   "   -</title>
+                        <title>.= b</title>
 
 <p>b      -   1   -   "</p>
 
@@ -6506,7 +6505,7 @@
 <p>b      "   b   3   =            </p>
 </subsection>
                     <subsection>
-                        <title>b      7   7   7   3</title>
+                        <title>.= b</title>
 
 <p>b      b   "   "   -</p>
 
@@ -6533,7 +6532,7 @@
 <p>b      "   b   7   b            </p>
 </subsection>
                     <subsection>
-                        <title>b      "   "   1   7</title>
+                        <title>.= b</title>
 
 <p>b      3   1   =   7</p>
 
@@ -6560,7 +6559,7 @@
 <p>b      =   -   =   -            </p>
 </subsection>
                     <subsection>
-                        <title>c      7   -   3   -</title>
+                        <title>.= c</title>
 
 <p>c      3   -   c   "</p>
 
@@ -6586,7 +6585,7 @@
 <p>c      "   7   c   =</p>
 </subsection>
                     <subsection>
-                        <title>c      =   =   1   1</title>
+                        <title>.= c</title>
 
 <p>c      =   "   1   -</p>
 
@@ -6613,7 +6612,7 @@
 <p>c      =   1   3   1            </p>
 </subsection>
                     <subsection>
-                        <title>c      c   "   1   =</title>
+                        <title>.= c</title>
 
 <p>c      "   1   7   1</p>
 
@@ -6640,7 +6639,7 @@
 <p>c      c   -   c   7            </p>
 </subsection>
                     <subsection>
-                        <title>c      c   7   "   7</title>
+                        <title>.= c</title>
 
 <p>c      c   c   =   =</p>
 
@@ -6667,7 +6666,7 @@
 <p>c      1   1   7   1            </p>
 </subsection>
                     <subsection>
-                        <title>c      7   1   "   =</title>
+                        <title>.= c</title>
 
 <p>c      -   7   "   -</p>
 
@@ -6694,7 +6693,7 @@
 <p>c      c   =   -   7            </p>
 </subsection>
                     <subsection>
-                        <title>c      "   "   3   1</title>
+                        <title>.= c</title>
 
 <p>c      "   c   -   3</p>
 
@@ -6721,7 +6720,7 @@
 <p>c      3   -   =   =            </p>
 </subsection>
                     <subsection>
-                        <title>c      "   "   1   3</title>
+                        <title>.= c</title>
 
 <p>c      =   c   3   =</p>
 
@@ -6748,7 +6747,7 @@
 <p>c      "   7   7   3            </p>
 </subsection>
                     <subsection>
-                        <title>d      3   d   =   =</title>
+                        <title>.= d</title>
 
 <p>d      3   =   3   -</p>
 
@@ -6775,7 +6774,7 @@
 <p>d      3   1   -   7            </p>
 </subsection>
                     <subsection>
-                        <title>d      "   "   3   d</title>
+                        <title>.= d</title>
 
 <p>d      d   1   7   d</p>
 
@@ -6802,7 +6801,7 @@
 <p>d      7   1   7   -            </p>
 </subsection>
                     <subsection>
-                        <title>d      "   "   "   d</title>
+                        <title>.= d</title>
 
 <p>d      =   =   d   -</p>
 
@@ -6829,7 +6828,7 @@
 <p>d      "   -   =   3            </p>
 </subsection>
                     <subsection>
-                        <title>d      3   =   -   d</title>
+                        <title>.= d</title>
 
 <p>d      "   7   "   1</p>
 
@@ -6856,7 +6855,7 @@
 <p>d      -   "   1   d            </p>
 </subsection>
                     <subsection>
-                        <title>d      d   3   3   =</title>
+                        <title>.= d</title>
 
 <p>d      "   3   =   7</p>
 
@@ -6883,7 +6882,7 @@
 <p>d      -   1   =   d            </p>
 </subsection>
                     <subsection>
-                        <title>d      =   "   3   "</title>
+                        <title>.= d</title>
 
 <p>d      =   7   =   3</p>
 
@@ -6936,7 +6935,7 @@
 <p>d      1   7   3   1</p>
 </subsection>
                     <subsection>
-                        <title>e      1   7   1   e</title>
+                        <title>.= e</title>
 
 <p>e      1   1   "   7</p>
 
@@ -6989,7 +6988,7 @@
 <p>e      7   =   e   =</p>
 </subsection>
                     <subsection>
-                        <title>e      =   "   -   e</title>
+                        <title>.= e</title>
 
 <p>e      7   1   e   =</p>
 
@@ -7016,7 +7015,7 @@
 <p>e      e   =   -   3            </p>
 </subsection>
                     <subsection>
-                        <title>e      "   =   3   =</title>
+                        <title>.= e</title>
 
 <p>e      e   7   3   =</p>
 
@@ -7043,7 +7042,7 @@
 <p>e      "   -   7   3            </p>
 </subsection>
                     <subsection>
-                        <title>e      =   =   e   "</title>
+                        <title>.= e</title>
 
 <p>e      -   1   e   =</p>
 
@@ -7070,7 +7069,7 @@
 <p>e      e   "   "   1            </p>
 </subsection>
                     <subsection>
-                        <title>e      e   =   3   =</title>
+                        <title>.= e</title>
 
 <p>e      -   1   -   1</p>
 
@@ -7097,7 +7096,7 @@
 <p>e      3   7   1   3            </p>
 </subsection>
                     <subsection>
-                        <title>e      "   3   3   7</title>
+                        <title>.= e</title>
 
 <p>e      e   "   e   e</p>
 
@@ -7124,7 +7123,7 @@
 <p>e      1   =   =   7            </p>
 </subsection>
                     <subsection>
-                        <title>e      "   -   "   7</title>
+                        <title>.= e</title>
 
 <p>e      =   =   3   "</p>
 
@@ -7151,7 +7150,7 @@
 <p>f      3   f   1   f            </p>
 </subsection>
                     <subsection>
-                        <title>f      -   f   7   f</title>
+                        <title>.= f</title>
 
 <p>f      3   f   f   7</p>
 
@@ -7178,7 +7177,7 @@
 <p>f      1   "   "   -            </p>
 </subsection>
                     <subsection>
-                        <title>f      3   3   3   1</title>
+                        <title>.= f</title>
 
 <p>f      3   =   f   =</p>
 
@@ -7205,7 +7204,7 @@
 <p>f      =   f   =   f            </p>
 </subsection>
                     <subsection>
-                        <title>f      3   -   "   =</title>
+                        <title>.= f</title>
 
 <p>f      =   1   3   =</p>
 
@@ -7232,7 +7231,7 @@
 <p>f      f   =   =   f            </p>
 </subsection>
                     <subsection>
-                        <title>f      "   f   -   7</title>
+                        <title>.= f</title>
 
 <p>f      "   -   1   "</p>
 
@@ -7259,7 +7258,7 @@
 <p>f      -   "   =   =            </p>
 </subsection>
                     <subsection>
-                        <title>f      "   =   3   1</title>
+                        <title>.= f</title>
 
 <p>f      1   3   1   1</p>
 
@@ -7286,7 +7285,7 @@
 <p>f      -   1   "   7            </p>
 </subsection>
                     <subsection>
-                        <title>f      -   f   1   "</title>
+                        <title>.= f</title>
 
 <p>f      3   1   7   7</p>
 
@@ -7313,7 +7312,7 @@
 <p>f      7   f   -   7            </p>
 </subsection>
                     <subsection>
-                        <title>f      3   "   "   -</title>
+                        <title>.= f</title>
 
 <p>f      f   f   7   "</p>
 
@@ -7340,7 +7339,7 @@
 <p>f      1   7   3   "            </p>
 </subsection>
                     <subsection>
-                        <title>g      3   -   3   "</title>
+                        <title>.= g</title>
 
 <p>g      3   7   -   -</p>
 
@@ -7367,7 +7366,7 @@
 <p>g      7   "   7   g            </p>
 </subsection>
                     <subsection>
-                        <title>g      3   =   -   "</title>
+                        <title>.= g</title>
 
 <p>g      1   3   =   7</p>
 
@@ -7394,7 +7393,7 @@
 <p>g      7   3   1   -            </p>
 </subsection>
                     <subsection>
-                        <title>g      =   1   g   g</title>
+                        <title>.= g</title>
 
 <p>g      g   -   "   3</p>
 
@@ -7421,7 +7420,7 @@
 <p>g      g   3   =   3            </p>
 </subsection>
                     <subsection>
-                        <title>g      -   =   -   1</title>
+                        <title>.= g</title>
 
 <p>g      1   7   =   -</p>
 
@@ -7448,7 +7447,7 @@
 <p>g      1   =   1   7            </p>
 </subsection>
                     <subsection>
-                        <title>g      7   -   g   -</title>
+                        <title>.= g</title>
 
 <p>g      "   -   "   -</p>
 
@@ -7475,7 +7474,7 @@
 <p>g      3   "   =   g            </p>
 </subsection>
                     <subsection>
-                        <title>g      1   7   -   =</title>
+                        <title>.= g</title>
 
 <p>g      "   3   1   1</p>
 
@@ -7502,7 +7501,7 @@
 <p>g      -   1   3   g            </p>
 </subsection>
                     <subsection>
-                        <title>g      1   -   =   "</title>
+                        <title>.= g</title>
 
 <p>g      1   1   -   "</p>
 
@@ -7529,7 +7528,7 @@
 <p>g      1   3   7   "            </p>
 </subsection>
                     <subsection>
-                        <title>h      "   3   h   -</title>
+                        <title>.= h</title>
 
 <p>h      7   -   h   7</p>
 
@@ -7582,7 +7581,7 @@
 <p>h      "   h   -   7</p>
 </subsection>
                     <subsection>
-                        <title>h      =   7   h   =</title>
+                        <title>.= h</title>
 
 <p>h      3   -   h   1</p>
 
@@ -7635,7 +7634,7 @@
 <p>h      -   -   -   7</p>
 </subsection>
                     <subsection>
-                        <title>h      3   1   7   h</title>
+                        <title>.= h</title>
 
 <p>h      1   1   "   "</p>
 
@@ -7662,7 +7661,7 @@
 <p>h      "   7   h   3            </p>
 </subsection>
                     <subsection>
-                        <title>h      =   h   -   =</title>
+                        <title>.= h</title>
 
 <p>h      "   3   7   1</p>
 
@@ -7689,7 +7688,7 @@
 <p>h      -   1   3   3            </p>
 </subsection>
                     <subsection>
-                        <title>h      =   =   h   =</title>
+                        <title>.= h</title>
 
 <p>h      =   1   7   3</p>
 
@@ -7716,7 +7715,7 @@
 <p>h      -   -   h   7            </p>
 </subsection>
                     <subsection>
-                        <title>i      i   i   3   3</title>
+                        <title>.= i</title>
 
 <p>i      =   1   i   =</p>
 
@@ -7743,7 +7742,7 @@
 <p>i      1   i   3   -            </p>
 </subsection>
                     <subsection>
-                        <title>i      3   i   =   =</title>
+                        <title>.= i</title>
 
 <p>i      =   3   i   =</p>
 
@@ -7770,7 +7769,7 @@
 <p>i      =   1   3   7            </p>
 </subsection>
                     <subsection>
-                        <title>i      =   3   1   "</title>
+                        <title>.= i</title>
 
 <p>i      "   "   3   1</p>
 
@@ -7797,7 +7796,7 @@
 <p>i      3   1   "   -            </p>
 </subsection>
                     <subsection>
-                        <title>i      1   -   i   3</title>
+                        <title>.= i</title>
 
 <p>i      i   1   -   -</p>
 
@@ -7824,7 +7823,7 @@
 <p>i      7   =   1   i            </p>
 </subsection>
                     <subsection>
-                        <title>i      3   "   3   "</title>
+                        <title>.= i</title>
 
 <p>i      7   =   i   -</p>
 
@@ -7851,7 +7850,7 @@
 <p>i      "   "   i   7            </p>
 </subsection>
                     <subsection>
-                        <title>i      "   "   3   i</title>
+                        <title>.= i</title>
 
 <p>i      1   i   1   1</p>
 
@@ -7878,7 +7877,7 @@
 <p>i      3   i   -   i            </p>
 </subsection>
                     <subsection>
-                        <title>i      1   1   "   1</title>
+                        <title>.= i</title>
 
 <p>i      3   -   =   i</p>
 
@@ -7905,7 +7904,7 @@
 <p>i      -   3   3   3            </p>
 </subsection>
                     <subsection>
-                        <title>j      1   =   -   -</title>
+                        <title>.= j</title>
 
 <p>j      -   =   "   7</p>
 
@@ -7932,7 +7931,7 @@
 <p>j      3   "   =   "            </p>
 </subsection>
                     <subsection>
-                        <title>j      -   3   "   7</title>
+                        <title>.= j</title>
 
 <p>j      3   7   3   "</p>
 
@@ -7959,7 +7958,7 @@
 <p>j      j   j   3   1            </p>
 </subsection>
                     <subsection>
-                        <title>j      -   1   3   1</title>
+                        <title>.= j</title>
 
 <p>j      "   "   7   "</p>
 
@@ -7986,7 +7985,7 @@
 <p>j      =   3   1   =            </p>
 </subsection>
                     <subsection>
-                        <title>j      7   1   =   3</title>
+                        <title>.= j</title>
 
 <p>j      =   =   7   "</p>
 
@@ -8013,7 +8012,7 @@
 <p>j      -   3   3   3            </p>
 </subsection>
                     <subsection>
-                        <title>j      1   -   =   7</title>
+                        <title>.= j</title>
 
 <p>j      7   "   =   7</p>
 
@@ -8040,7 +8039,7 @@
 <p>j      "   "   1   "            </p>
 </subsection>
                     <subsection>
-                        <title>j      1   =   -   -</title>
+                        <title>.= j</title>
 
 <p>j      =   j   "   -</p>
 
@@ -8067,7 +8066,7 @@
 <p>j      =   =   7   =            </p>
 </subsection>
                     <subsection>
-                        <title>j      7   j   -   3</title>
+                        <title>.= j</title>
 
 <p>j      -   7   j   3</p>
 
@@ -8094,7 +8093,7 @@
 <p>j      j   3   1   j            </p>
 </subsection>
                     <subsection>
-                        <title>k      =   "   "   -</title>
+                        <title>.= k</title>
 
 <p>k      3   -   1   -</p>
 
@@ -8121,7 +8120,7 @@
 <p>k      3   k   3   =            </p>
 </subsection>
                     <subsection>
-                        <title>k      =   =   3   =</title>
+                        <title>.= k</title>
 
 <p>k      k   k   k   7</p>
 
@@ -8148,7 +8147,7 @@
 <p>k      "   3   k   3            </p>
 </subsection>
                     <subsection>
-                        <title>k      "   "   1   7</title>
+                        <title>.= k</title>
 
 <p>k      k   1   1   3</p>
 
@@ -8175,7 +8174,7 @@
 <p>k      =   "   3   7            </p>
 </subsection>
                     <subsection>
-                        <title>k      -   -   k   7</title>
+                        <title>.= k</title>
 
 <p>k      k   7   7   k</p>
 
@@ -8202,7 +8201,7 @@
 <p>k      -   1   k   "            </p>
 </subsection>
                     <subsection>
-                        <title>k      3   3   k   3</title>
+                        <title>.= k</title>
 
 <p>k      1   3   3   3</p>
 
@@ -8229,7 +8228,7 @@
 <p>k      =   3   "   3            </p>
 </subsection>
                     <subsection>
-                        <title>k      k   1   "   3</title>
+                        <title>.= k</title>
 
 <p>k      =   7   k   3</p>
 
@@ -8256,7 +8255,7 @@
 <p>k      -   k   1   "            </p>
 </subsection>
                     <subsection>
-                        <title>k      7   "   1   1</title>
+                        <title>.= k</title>
 
 <p>k      3   1   7   "</p>
 
@@ -8283,7 +8282,7 @@
 <p>k      k   -   "   "            </p>
 </subsection>
                     <subsection>
-                        <title>l      =   l   "   1</title>
+                        <title>.= l</title>
 
 <p>l      =   -   -   1</p>
 
@@ -8310,7 +8309,7 @@
 <p>l      7   3   =   -            </p>
 </subsection>
                     <subsection>
-                        <title>l      =   l   1   -</title>
+                        <title>.= l</title>
 
 <p>l      7   3   1   =</p>
 
@@ -8337,7 +8336,7 @@
 <p>l      1   1   7   7            </p>
 </subsection>
                     <subsection>
-                        <title>l      l   =   3   =</title>
+                        <title>.= l</title>
 
 <p>l      3   "   -   =</p>
 
@@ -8364,7 +8363,7 @@
 <p>l      "   -   -   "            </p>
 </subsection>
                     <subsection>
-                        <title>l      l   "   1   3</title>
+                        <title>.= l</title>
 
 <p>l      1   7   3   "</p>
 
@@ -8391,7 +8390,7 @@
 <p>l      =   =   1   -            </p>
 </subsection>
                     <subsection>
-                        <title>l      3   7   -   =</title>
+                        <title>.= l</title>
 
 <p>l      l   7   1   3</p>
 
@@ -8418,7 +8417,7 @@
 <p>l      =   -   l   3            </p>
 </subsection>
                     <subsection>
-                        <title>l      -   1   =   l</title>
+                        <title>.= l</title>
 
 <p>l      l   "   l   "</p>
 
@@ -8445,7 +8444,7 @@
 <p>l      l   l   7   "            </p>
 </subsection>
                     <subsection>
-                        <title>l      7   1   1   l</title>
+                        <title>.= l</title>
 
 <p>l      -   -   1   l</p>
 
@@ -8472,7 +8471,7 @@
 <p>l      7   1   1   -            </p>
 </subsection>
                     <subsection>
-                        <title>m      -   =   =   "</title>
+                        <title>.= m</title>
 
 <p>m      m   =   -   "</p>
 
@@ -8499,7 +8498,7 @@
 <p>m      3   -   -   7            </p>
 </subsection>
                     <subsection>
-                        <title>m      1   =   7   7</title>
+                        <title>.= m</title>
 
 <p>m      -   3   7   "</p>
 
@@ -8526,7 +8525,7 @@
 <p>m      1   -   7   "            </p>
 </subsection>
                     <subsection>
-                        <title>m      "   1   -   "</title>
+                        <title>.= m</title>
 
 <p>m      7   m   3   1</p>
 
@@ -8553,7 +8552,7 @@
 <p>m      m   1   =   "            </p>
 </subsection>
                     <subsection>
-                        <title>m      =   m   =   7</title>
+                        <title>.= m</title>
 
 <p>m      m   -   1   1</p>
 
@@ -8580,7 +8579,7 @@
 <p>m      "   m   =   7            </p>
 </subsection>
                     <subsection>
-                        <title>m      m   "   7   -</title>
+                        <title>.= m</title>
 
 <p>m      7   3   m   3</p>
 
@@ -8607,7 +8606,7 @@
 <p>m      "   1   =   -            </p>
 </subsection>
                     <subsection>
-                        <title>m      1   m   m   3</title>
+                        <title>.= m</title>
 
 <p>m      7   7   3   =</p>
 
@@ -8634,7 +8633,7 @@
 <p>m      1   -   1   m            </p>
 </subsection>
                     <subsection>
-                        <title>m      3   "   =   3</title>
+                        <title>.= m</title>
 
 <p>m      "   3   3   =</p>
 
@@ -8661,7 +8660,7 @@
 <p>m      3   "   =   =            </p>
 </subsection>
                     <subsection>
-                        <title>n      7   3   =   n</title>
+                        <title>.= n</title>
 
 <p>n      =   3   =   7</p>
 
@@ -8688,7 +8687,7 @@
 <p>n      1   "   1   -            </p>
 </subsection>
                     <subsection>
-                        <title>n      7   -   3   1</title>
+                        <title>.= n</title>
 
 <p>n      3   -   7   1</p>
 
@@ -8715,7 +8714,7 @@
 <p>n      n   "   -   "            </p>
 </subsection>
                     <subsection>
-                        <title>n      7   "   "   n</title>
+                        <title>.= n</title>
 
 <p>n      7   =   n   3</p>
 
@@ -8742,7 +8741,7 @@
 <p>n      "   3   -   -            </p>
 </subsection>
                     <subsection>
-                        <title>n      "   "   "   -</title>
+                        <title>.= n</title>
 
 <p>n      3   1   =   1</p>
 
@@ -8769,7 +8768,7 @@
 <p>n      7   7   1   1            </p>
 </subsection>
                     <subsection>
-                        <title>n      "   =   =   -</title>
+                        <title>.= n</title>
 
 <p>n      n   -   7   "</p>
 
@@ -8796,7 +8795,7 @@
 <p>n      "   1   3   -            </p>
 </subsection>
                     <subsection>
-                        <title>n      -   -   1   "</title>
+                        <title>.= n</title>
 
 <p>n      3   n   3   3</p>
 
@@ -8823,7 +8822,7 @@
 <p>n      "   "   n   -            </p>
 </subsection>
                     <subsection>
-                        <title>n      1   n   n   7</title>
+                        <title>.= n</title>
 
 <p>n      =   -   7   -</p>
 
@@ -8850,7 +8849,7 @@
 <p>n      -   "   -   3            </p>
 </subsection>
                     <subsection>
-                        <title>o      =   =   3   "</title>
+                        <title>.= o</title>
 
 <p>o      1   3   "   3</p>
 
@@ -8877,7 +8876,7 @@
 <p>o      3   1   =   -            </p>
 </subsection>
                     <subsection>
-                        <title>o      "   "   -   =</title>
+                        <title>.= o</title>
 
 <p>o      "   -   7   o</p>
 
@@ -8904,7 +8903,7 @@
 <p>o      -   3   1   1            </p>
 </subsection>
                     <subsection>
-                        <title>o      -   7   -   7</title>
+                        <title>.= o</title>
 
 <p>o      3   -   3   "</p>
 
@@ -8931,7 +8930,7 @@
 <p>o      o   o   -   "            </p>
 </subsection>
                     <subsection>
-                        <title>o      "   3   1   1</title>
+                        <title>.= o</title>
 
 <p>o      3   -   3   7</p>
 
@@ -8958,7 +8957,7 @@
 <p>o      -   7   1   1            </p>
 </subsection>
                     <subsection>
-                        <title>o      "   7   =   -</title>
+                        <title>.= o</title>
 
 <p>o      =   3   =   3</p>
 
@@ -8985,7 +8984,7 @@
 <p>o      =   -   o   "            </p>
 </subsection>
                     <subsection>
-                        <title>o      o   3   "   7</title>
+                        <title>.= o</title>
 
 <p>o      7   3   o   -</p>
 
@@ -9012,7 +9011,7 @@
 <p>o      3   3   3   1            </p>
 </subsection>
                     <subsection>
-                        <title>o      1   "   o   "</title>
+                        <title>.= o</title>
 
 <p>o      o   -   1   "</p>
 
@@ -9039,7 +9038,7 @@
 <p>o      7   o   =   =            </p>
 </subsection>
                     <subsection>
-                        <title>p      -   =   3   "</title>
+                        <title>.= p</title>
 
 <p>p      =   "   "   3</p>
 
@@ -9066,7 +9065,7 @@
 <p>p      7   p   3   "            </p>
 </subsection>
                     <subsection>
-                        <title>p      -   1   p   p</title>
+                        <title>.= p</title>
 
 <p>p      p   3   -   p</p>
 
@@ -9093,7 +9092,7 @@
 <p>p      1   7   -   7            </p>
 </subsection>
                     <subsection>
-                        <title>p      7   =   1   p</title>
+                        <title>.= p</title>
 
 <p>p      "   3   3   3</p>
 
@@ -9120,7 +9119,7 @@
 <p>p      -   -   7   3            </p>
 </subsection>
                     <subsection>
-                        <title>p      "   3   1   3</title>
+                        <title>.= p</title>
 
 <p>p      1   =   7   -</p>
 
@@ -9147,7 +9146,7 @@
 <p>p      1   1   7   =            </p>
 </subsection>
                     <subsection>
-                        <title>p      -   3   -   7</title>
+                        <title>.= p</title>
 
 <p>p      3   -   1   1</p>
 
@@ -9174,7 +9173,7 @@
 <p>p      "   -   =   7            </p>
 </subsection>
                     <subsection>
-                        <title>p      3   =   3   "</title>
+                        <title>.= p</title>
 
 <p>p      p   3   "   3</p>
 
@@ -9201,7 +9200,7 @@
 <p>p      p   7   p   =            </p>
 </subsection>
                     <subsection>
-                        <title>p      7   p   3   =</title>
+                        <title>.= p</title>
 
 <p>p      =   "   7   =</p>
 
@@ -9228,7 +9227,7 @@
 <p>p      -   3   "   7            </p>
 </subsection>
                     <subsection>
-                        <title>q      =   q   3   "</title>
+                        <title>.= q</title>
 
 <p>q      "   1   q   7</p>
 
@@ -9255,7 +9254,7 @@
 <p>q      q   q   "   =            </p>
 </subsection>
                     <subsection>
-                        <title>q      7   -   =   1</title>
+                        <title>.= q</title>
 
 <p>q      -   q   -   7</p>
 
@@ -9282,7 +9281,7 @@
 <p>q      7   1   -   -            </p>
 </subsection>
                     <subsection>
-                        <title>q      1   "   1   3</title>
+                        <title>.= q</title>
 
 <p>q      "   q   =   q</p>
 
@@ -9309,7 +9308,7 @@
 <p>q      7   7   =   -            </p>
 </subsection>
                     <subsection>
-                        <title>q      q   7   7   =</title>
+                        <title>.= q</title>
 
 <p>q      7   -   q   -</p>
 
@@ -9336,7 +9335,7 @@
 <p>q      "   q   q   -            </p>
 </subsection>
                     <subsection>
-                        <title>q      3   1   -   q</title>
+                        <title>.= q</title>
 
 <p>q      3   =   7   "</p>
 
@@ -9363,7 +9362,7 @@
 <p>q      1   1   1   q            </p>
 </subsection>
                     <subsection>
-                        <title>q      7   3   "   =</title>
+                        <title>.= q</title>
 
 <p>q      1   3   -   3</p>
 
@@ -9390,7 +9389,7 @@
 <p>q      "   1   3   3            </p>
 </subsection>
                     <subsection>
-                        <title>q      q   7   3   7</title>
+                        <title>.= q</title>
 
 <p>q      -   3   "   7</p>
 
@@ -9417,7 +9416,7 @@
 <p>q      "   =   "   -            </p>
 </subsection>
                     <subsection>
-                        <title>r      =   3   -   r</title>
+                        <title>.= r</title>
 
 <p>r      r   r   -   1</p>
 
@@ -9444,7 +9443,7 @@
 <p>r      =   =   1   -            </p>
 </subsection>
                     <subsection>
-                        <title>r      3   7   "   r</title>
+                        <title>.= r</title>
 
 <p>r      -   1   7   =</p>
 
@@ -9471,7 +9470,7 @@
 <p>r      7   -   -   r            </p>
 </subsection>
                     <subsection>
-                        <title>r      7   7   "   3</title>
+                        <title>.= r</title>
 
 <p>r      =   1   7   r</p>
 
@@ -9498,7 +9497,7 @@
 <p>r      7   7   r   1            </p>
 </subsection>
                     <subsection>
-                        <title>r      "   -   "   =</title>
+                        <title>.= r</title>
 
 <p>r      7   1   =   r</p>
 
@@ -9525,7 +9524,7 @@
 <p>r      "   "   "   r            </p>
 </subsection>
                     <subsection>
-                        <title>r      =   7   -   =</title>
+                        <title>.= r</title>
 
 <p>r      7   r   1   =</p>
 
@@ -9552,7 +9551,7 @@
 <p>r      =   "   r   "            </p>
 </subsection>
                     <subsection>
-                        <title>r      1   1   =   7</title>
+                        <title>.= r</title>
 
 <p>r      7   r   3   r</p>
 
@@ -9579,7 +9578,7 @@
 <p>r      1   =   3   3            </p>
 </subsection>
                     <subsection>
-                        <title>r      -   -   1   -</title>
+                        <title>.= r</title>
 
 <p>r      7   1   r   "</p>
 
@@ -9606,7 +9605,7 @@
 <p>r      -   7   7   "            </p>
 </subsection>
                     <subsection>
-                        <title>s      =   s   1   3</title>
+                        <title>.= s</title>
 
 <p>s      s   1   s   "</p>
 
@@ -9633,7 +9632,7 @@
 <p>s      1   =   "   7            </p>
 </subsection>
                     <subsection>
-                        <title>s      3   s   -   7</title>
+                        <title>.= s</title>
 
 <p>s      1   3   7   =</p>
 
@@ -9660,7 +9659,7 @@
 <p>s      -   =   =   -            </p>
 </subsection>
                     <subsection>
-                        <title>s      =   "   3   3</title>
+                        <title>.= s</title>
 
 <p>s      s   "   7   "</p>
 
@@ -9687,7 +9686,7 @@
 <p>s      =   3   s   -            </p>
 </subsection>
                     <subsection>
-                        <title>s      3   s   1   3</title>
+                        <title>.= s</title>
 
 <p>s      7   -   s   -</p>
 
@@ -9714,7 +9713,7 @@
 <p>s      1   7   =   -            </p>
 </subsection>
                     <subsection>
-                        <title>s      -   s   =   1</title>
+                        <title>.= s</title>
 
 <p>s      =   s   -   s</p>
 
@@ -9741,7 +9740,7 @@
 <p>s      7   3   7   3            </p>
 </subsection>
                     <subsection>
-                        <title>s      -   7   1   -</title>
+                        <title>.= s</title>
 
 <p>s      1   7   "   =</p>
 
@@ -9768,7 +9767,7 @@
 <p>s      =   3   1   3            </p>
 </subsection>
                     <subsection>
-                        <title>s      =   -   =   =</title>
+                        <title>.= s</title>
 
 <p>s      1   =   1   =</p>
 
@@ -9795,7 +9794,7 @@
 <p>s      =   7   s   1            </p>
 </subsection>
                     <subsection>
-                        <title>t      7   -   t   3</title>
+                        <title>.= t</title>
 
 <p>t      t   "   3   "</p>
 
@@ -9822,7 +9821,7 @@
 <p>t      1   7   1   1            </p>
 </subsection>
                     <subsection>
-                        <title>t      3   7   3   -</title>
+                        <title>.= t</title>
 
 <p>t      "   7   t   1</p>
 
@@ -9849,7 +9848,7 @@
 <p>t      7   7   7   3            </p>
 </subsection>
                     <subsection>
-                        <title>t      t   -   -   -</title>
+                        <title>.= t</title>
 
 <p>t      -   =   "   -</p>
 
@@ -9876,7 +9875,7 @@
 <p>t      =   t   3   =            </p>
 </subsection>
                     <subsection>
-                        <title>t      1   7   t   t</title>
+                        <title>.= t</title>
 
 <p>t      "   "   -   t</p>
 
@@ -9903,7 +9902,7 @@
 <p>t      =   3   1   =            </p>
 </subsection>
                     <subsection>
-                        <title>t      7   "   t   1</title>
+                        <title>.= t</title>
 
 <p>t      3   3   7   -</p>
 
@@ -9930,7 +9929,7 @@
 <p>t      =   t   1   -            </p>
 </subsection>
                     <subsection>
-                        <title>t      7   -   t   -</title>
+                        <title>.= t</title>
 
 <p>t      "   t   =   =</p>
 
@@ -9957,7 +9956,7 @@
 <p>t      t   3   7   1            </p>
 </subsection>
                     <subsection>
-                        <title>t      7   3   "   -</title>
+                        <title>.= t</title>
 
 <p>t      7   t   7   =</p>
 
@@ -9984,7 +9983,7 @@
 <p>t      -   3   t   =            </p>
 </subsection>
                     <subsection>
-                        <title>u      =   7   "   "</title>
+                        <title>.= u</title>
 
 <p>u      =   1   3   "</p>
 
@@ -10011,7 +10010,7 @@
 <p>u      3   3   u   "            </p>
 </subsection>
                     <subsection>
-                        <title>u      1   "   =   1</title>
+                        <title>.= u</title>
 
 <p>u      7   3   -   "</p>
 
@@ -10038,7 +10037,7 @@
 <p>u      "   7   "   u            </p>
 </subsection>
                     <subsection>
-                        <title>u      1   =   -   -</title>
+                        <title>.= u</title>
 
 <p>u      3   u   =   u</p>
 
@@ -10065,7 +10064,7 @@
 <p>u      u   "   1   "            </p>
 </subsection>
                     <subsection>
-                        <title>u      3   u   1   3</title>
+                        <title>.= u</title>
 
 <p>u      "   =   u   3</p>
 
@@ -10092,7 +10091,7 @@
 <p>u      7   1   u   "            </p>
 </subsection>
                     <subsection>
-                        <title>u      -   -   7   1</title>
+                        <title>.= u</title>
 
 <p>u      "   1   u   -</p>
 
@@ -10119,7 +10118,7 @@
 <p>u      =   -   =   "            </p>
 </subsection>
                     <subsection>
-                        <title>u      -   7   u   3</title>
+                        <title>.= u</title>
 
 <p>u      u   =   1   1</p>
 
@@ -10146,7 +10145,7 @@
 <p>u      "   1   -   7            </p>
 </subsection>
                     <subsection>
-                        <title>u      3   u   "   3</title>
+                        <title>.= u</title>
 
 <p>u      3   "   "   7</p>
 
@@ -10173,7 +10172,7 @@
 <p>u      7   3   -   u            </p>
 </subsection>
                     <subsection>
-                        <title>v      -   3   =   1</title>
+                        <title>.= v</title>
 
 <p>v      1   -   =   1</p>
 
@@ -10200,7 +10199,7 @@
 <p>v      3   -   =   -            </p>
 </subsection>
                     <subsection>
-                        <title>v      =   v   1   -</title>
+                        <title>.= v</title>
 
 <p>v      =   =   v   v</p>
 
@@ -10227,7 +10226,7 @@
 <p>v      v   -   1   3            </p>
 </subsection>
                     <subsection>
-                        <title>v      3   -   3   "</title>
+                        <title>.= v</title>
 
 <p>v      =   "   =   3</p>
 
@@ -10254,7 +10253,7 @@
 <p>v      =   "   7   =            </p>
 </subsection>
                     <subsection>
-                        <title>v      =   7   7   "</title>
+                        <title>.= v</title>
 
 <p>v      -   7   3   "</p>
 
@@ -10281,7 +10280,7 @@
 <p>v      "   1   -   -            </p>
 </subsection>
                     <subsection>
-                        <title>v      v   v   v   "</title>
+                        <title>.= v</title>
 
 <p>v      "   1   -   -</p>
 
@@ -10308,7 +10307,7 @@
 <p>v      =   -   1   "            </p>
 </subsection>
                     <subsection>
-                        <title>v      1   1   "   =</title>
+                        <title>.= v</title>
 
 <p>v      1   -   1   =</p>
 
@@ -10335,7 +10334,7 @@
 <p>v      -   1   7   1            </p>
 </subsection>
                     <subsection>
-                        <title>v      =   1   -   3</title>
+                        <title>.= v</title>
 
 <p>v      "   1   =   "</p>
 
@@ -10362,7 +10361,7 @@
 <p>v      3   1   1   =            </p>
 </subsection>
                     <subsection>
-                        <title>w      7   -   -   7</title>
+                        <title>.= w</title>
 
 <p>w      w   7   "   3</p>
 
@@ -10389,7 +10388,7 @@
 <p>w      =   7   w   "            </p>
 </subsection>
                     <subsection>
-                        <title>w      =   7   3   w</title>
+                        <title>.= w</title>
 
 <p>w      w   1   -   =</p>
 
@@ -10416,7 +10415,7 @@
 <p>w      -   7   =   -            </p>
 </subsection>
                     <subsection>
-                        <title>w      3   "   3   "</title>
+                        <title>.= w</title>
 
 <p>w      7   7   -   3</p>
 
@@ -10443,7 +10442,7 @@
 <p>w      =   w   1   7            </p>
 </subsection>
                     <subsection>
-                        <title>w      w   3   7   7</title>
+                        <title>.= w</title>
 
 <p>w      -   "   3   3</p>
 
@@ -10470,7 +10469,7 @@
 <p>w      w   "   1   1            </p>
 </subsection>
                     <subsection>
-                        <title>w      3   =   7   1</title>
+                        <title>.= w</title>
 
 <p>w      w   7   -   "</p>
 
@@ -10497,7 +10496,7 @@
 <p>w      =   7   3   7            </p>
 </subsection>
                     <subsection>
-                        <title>w      1   w   1   3</title>
+                        <title>.= w</title>
 
 <p>w      -   "   -   1</p>
 
@@ -10524,7 +10523,7 @@
 <p>w      "   3   w   "            </p>
 </subsection>
                     <subsection>
-                        <title>w      7   1   w   w</title>
+                        <title>.= w</title>
 
 <p>w      7   "   w   -</p>
 
@@ -10551,7 +10550,7 @@
 <p>w      w   3   1   1            </p>
 </subsection>
                     <subsection>
-                        <title>x      7   7   x   "</title>
+                        <title>.= x</title>
 
 <p>x      1   7   1   =</p>
 
@@ -10578,7 +10577,7 @@
 <p>x      1   7   "   3            </p>
 </subsection>
                     <subsection>
-                        <title>x      3   "   7   "</title>
+                        <title>.= x</title>
 
 <p>x      7   -   -   =</p>
 
@@ -10605,7 +10604,7 @@
 <p>x      3   -   7   3            </p>
 </subsection>
                     <subsection>
-                        <title>x      7   3   "   3</title>
+                        <title>.= x</title>
 
 <p>x      "   "   x   "</p>
 
@@ -10632,7 +10631,7 @@
 <p>x      -   =   3   "            </p>
 </subsection>
                     <subsection>
-                        <title>x      =   1   x   -</title>
+                        <title>.= x</title>
 
 <p>x      3   "   =   1</p>
 
@@ -10659,7 +10658,7 @@
 <p>x      x   x   7   3            </p>
 </subsection>
                     <subsection>
-                        <title>x      "   x   "   -</title>
+                        <title>.= x</title>
 
 <p>x      x   -   7   1</p>
 
@@ -10686,7 +10685,7 @@
 <p>x      "   =   7   =            </p>
 </subsection>
                     <subsection>
-                        <title>x      "   "   7   x</title>
+                        <title>.= x</title>
 
 <p>x      3   1   -   -</p>
 
@@ -10713,7 +10712,7 @@
 <p>x      "   =   =   7            </p>
 </subsection>
                     <subsection>
-                        <title>x      "   -   1   1</title>
+                        <title>.= x</title>
 
 <p>x      x   1   7   3</p>
 
@@ -10740,7 +10739,7 @@
 <p>x      1   7   3   3            </p>
 </subsection>
                     <subsection>
-                        <title>y      "   =   1   y</title>
+                        <title>.= y</title>
 
 <p>y      y   1   3   y</p>
 
@@ -10767,7 +10766,7 @@
 <p>y      7   =   7   3            </p>
 </subsection>
                     <subsection>
-                        <title>y      =   3   7   y</title>
+                        <title>.= y</title>
 
 <p>y      =   3   -   -</p>
 
@@ -10794,7 +10793,7 @@
 <p>y      1   =   7   3            </p>
 </subsection>
                     <subsection>
-                        <title>y      3   1   7   3</title>
+                        <title>.= y</title>
 
 <p>y      =   y   3   =</p>
 
@@ -10821,7 +10820,7 @@
 <p>y      "   7   3   7            </p>
 </subsection>
                     <subsection>
-                        <title>y      -   7   -   =</title>
+                        <title>.= y</title>
 
 <p>y      -   y   y   3</p>
 
@@ -10848,7 +10847,7 @@
 <p>y      y   =   -   7            </p>
 </subsection>
                     <subsection>
-                        <title>y      y   3   -   "</title>
+                        <title>.= y</title>
 
 <p>y      1   1   -   -</p>
 
@@ -10875,7 +10874,7 @@
 <p>y      y   y   =   3            </p>
 </subsection>
                     <subsection>
-                        <title>y      y   y   1   y</title>
+                        <title>.= y</title>
 
 <p>y      -   y   7   -</p>
 
@@ -10902,7 +10901,7 @@
 <p>y      7   y   -   1            </p>
 </subsection>
                     <subsection>
-                        <title>y      7   y   7   =</title>
+                        <title>.= y</title>
 
 <p>y      "   1   y   y</p>
 
@@ -10929,7 +10928,7 @@
 <p>y      -   =   7   7            </p>
 </subsection>
                     <subsection>
-                        <title>z      7   =   "   z</title>
+                        <title>.= z</title>
 
 <p>z      3   1   =   "</p>
 
@@ -10956,7 +10955,7 @@
 <p>z      3   "   -   =            </p>
 </subsection>
                     <subsection>
-                        <title>z      =   "   7   3</title>
+                        <title>.= z</title>
 
 <p>z      =   "   7   3</p>
 
@@ -10983,7 +10982,7 @@
 <p>z      -   z   7   -            </p>
 </subsection>
                     <subsection>
-                        <title>z      z   1   1   "</title>
+                        <title>.= z</title>
 
 <p>z      z   3   z   3</p>
 
@@ -11010,7 +11009,7 @@
 <p>z      7   7   3   3            </p>
 </subsection>
                     <subsection>
-                        <title>z      =   1   "   3</title>
+                        <title>.= z</title>
 
 <p>z      -   3   z   3</p>
 
@@ -11037,7 +11036,7 @@
 <p>z      "   "   z   1            </p>
 </subsection>
                     <subsection>
-                        <title>z      -   7   z   =</title>
+                        <title>.= z</title>
 
 <p>z      7   z   1   z</p>
 
@@ -11064,7 +11063,7 @@
 <p>z      z   -   7   7            </p>
 </subsection>
                     <subsection>
-                        <title>z      7   =   1   "</title>
+                        <title>.= z</title>
 
 <p>z      3   7   -   z</p>
 
@@ -11091,7 +11090,7 @@
 <p>z      -   -   z   7            </p>
 </subsection>
                     <subsection>
-                        <title>z      z   z   3   1</title>
+                        <title>.= z</title>
 
 <p>z      3   -   "   7</p>
 
@@ -11118,7 +11117,7 @@
 <p>z      7   7   -   3            </p>
 </subsection>
                     <subsection>
-                        <title>z      "   -   z   7</title>
+                        <title>.= z</title>
 
 <p>z      1   "   7   -</p>
 
@@ -11140,7 +11139,7 @@
                 <section>
                     <title>MATCH CHARACTERS: INTERMEDIATE FOILS</title>
                     <subsection>
-                        <title>a      a   "   1   7</title>
+                        <title>.= a</title>
 <p>a      7   "   7   a</p>
 <p>a      1   "   3   7</p>
 <p>a      3   7   1   "</p>
@@ -11167,7 +11166,7 @@
 <p>a      a   1   a   a            </p>
 </subsection>
                     <subsection>
-                        <title>a      a   7   a   a</title>
+                        <title>.= a</title>
 <p>a      =   3   3   1</p>
 <p>a      -   3   1   3</p>
 <p>a      1   7   7   a</p>
@@ -11194,7 +11193,7 @@
 <p>a      3   1   3   1            </p>
 </subsection>
                     <subsection>
-                        <title>a      =   7   1   a</title>
+                        <title>.= a</title>
 <p>a      7   =   3   7</p>
 <p>a      "   "   "   7</p>
 <p>a      7   1   "   7</p>
@@ -11221,7 +11220,7 @@
 <p>a      3   =   a   7            </p>
 </subsection>
                     <subsection>
-                        <title>a      3   a   a   3</title>
+                        <title>.= a</title>
 <p>a      3   -   7   3</p>
 <p>a      1   -   =   3</p>
 <p>a      -   7   3   -</p>
@@ -11248,7 +11247,7 @@
 <p>a      "   =   1   1            </p>
 </subsection>
                     <subsection>
-                        <title>b      =   3   -   -</title>
+                        <title>.= b</title>
 <p>b      =   7   =   3</p>
 <p>b      =   =   3   =</p>
 <p>b      "   3   "   7</p>
@@ -11275,7 +11274,7 @@
 <p>b      "   "   7   3            </p>
 </subsection>
                     <subsection>
-                        <title>b      7   3   7   =</title>
+                        <title>.= b</title>
 <p>b      1   1   3   1</p>
 <p>b      -   1   "   1</p>
 <p>b      b   1   7   1</p>
@@ -11302,7 +11301,7 @@
 <p>b      -   =   1   b            </p>
 </subsection>
                     <subsection>
-                        <title>b      =   3   "   =</title>
+                        <title>.= b</title>
 <p>b      =   1   1   "</p>
 <p>b      =   3   "   -</p>
 <p>b      -   1   -   "</p>
@@ -11329,7 +11328,7 @@
 <p>b      7   b   =   7            </p>
 </subsection>
                     <subsection>
-                        <title>b      b   1   b   =</title>
+                        <title>.= b</title>
 <p>b      "   b   3   3</p>
 <p>b      "   b   7   b</p>
 <p>b      "   "   1   7</p>
@@ -11356,7 +11355,7 @@
 <p>b      =   1   -   "            </p>
 </subsection>
                     <subsection>
-                        <title>c      7   -   3   -</title>
+                        <title>.= c</title>
 <p>c      3   -   c   "</p>
 <p>c      "   1   7   1</p>
 <p>c      -   c   c   c</p>
@@ -11383,7 +11382,7 @@
 <p>c      c   3   =   =            </p>
 </subsection>
                     <subsection>
-                        <title>c      =   1   3   1</title>
+                        <title>.= c</title>
 <p>c      c   "   1   =</p>
 <p>c      "   1   7   1</p>
 <p>c      "   1   3   1</p>
@@ -11410,7 +11409,7 @@
 <p>c      -   3   3   "            </p>
 </subsection>
                     <subsection>
-                        <title>c      1   3   1   7</title>
+                        <title>.= c</title>
 <p>c      1   1   7   1</p>
 <p>c      7   1   "   =</p>
 <p>c      -   7   "   -</p>
@@ -11437,7 +11436,7 @@
 <p>c      =   =   3   "            </p>
 </subsection>
                     <subsection>
-                        <title>c      "   c   -   c</title>
+                        <title>.= c</title>
 <p>c      3   1   "   "</p>
 <p>c      3   -   =   =</p>
 <p>c      "   "   1   3</p>
@@ -11464,7 +11463,7 @@
 <p>c      1   7   =   3            </p>
 </subsection>
                     <subsection>
-                        <title>d      3   d   =   =</title>
+                        <title>.= d</title>
 <p>d      3   =   3   -</p>
 <p>d      1   7   1   7</p>
 <p>d      1   7   7   "</p>
@@ -11491,7 +11490,7 @@
 <p>d      d   d   d   "            </p>
 </subsection>
                     <subsection>
-                        <title>d      =   d   1   =</title>
+                        <title>.= d</title>
 <p>d      =   1   =   =</p>
 <p>d      7   1   7   -</p>
 <p>d      "   "   "   d</p>
@@ -11518,7 +11517,7 @@
 <p>d      d   1   "   7            </p>
 </subsection>
                     <subsection>
-                        <title>d      7   7   1   3</title>
+                        <title>.= d</title>
 <p>d      1   7   -   d</p>
 <p>d      "   =   7   d</p>
 <p>d      -   "   1   d</p>
@@ -11545,7 +11544,7 @@
 <p>d      1   -   3   7            </p>
 </subsection>
                     <subsection>
-                        <title>d      =   3   3   -</title>
+                        <title>.= d</title>
 <p>d      d   7   =   7</p>
 <p>d      1   "   7   d</p>
 <p>d      7   =   -   =</p>
@@ -11572,7 +11571,7 @@
 <p>d      =   =   "   =            </p>
 </subsection>
                     <subsection>
-                        <title>e      1   7   1   e</title>
+                        <title>.= e</title>
 <p>e      1   1   "   7</p>
 <p>e      3   7   7   "</p>
 <p>e      -   -   3   e</p>
@@ -11599,7 +11598,7 @@
 <p>e      7   =   e   =            </p>
 </subsection>
                     <subsection>
-                        <title>e      =   "   -   e</title>
+                        <title>.= e</title>
 <p>e      7   1   e   =</p>
 <p>e      "   =   "   =</p>
 <p>e      "   e   7   -</p>
@@ -11626,7 +11625,7 @@
 <p>e      -   3   1   =            </p>
 </subsection>
                     <subsection>
-                        <title>e      "   -   7   3</title>
+                        <title>.= e</title>
 <p>e      =   =   e   "</p>
 <p>e      -   1   e   =</p>
 <p>e      =   e   =   7</p>
@@ -11653,7 +11652,7 @@
 <p>e      =   -   "   7            </p>
 </subsection>
                     <subsection>
-                        <title>e      =   7   7   "</title>
+                        <title>.= e</title>
 <p>e      3   7   1   3</p>
 <p>e      "   3   3   7</p>
 <p>e      e   "   e   e</p>
@@ -11680,7 +11679,7 @@
 <p>e      1   -   1   3            </p>
 </subsection>
                     <subsection>
-                        <title>f      f   1   7   1</title>
+                        <title>.= f</title>
 <p>f      -   3   -   "</p>
 <p>f      3   f   1   f</p>
 <p>f      -   f   7   f</p>
@@ -11707,7 +11706,7 @@
 <p>f      -   1   f   -            </p>
 </subsection>
                     <subsection>
-                        <title>f      -   7   =   -</title>
+                        <title>.= f</title>
 <p>f      7   7   f   f</p>
 <p>f      "   -   =   f</p>
 <p>f      =   f   =   f</p>
@@ -11734,7 +11733,7 @@
 <p>f      7   =   =   3            </p>
 </subsection>
                     <subsection>
-                        <title>f      =   1   1   1</title>
+                        <title>.= f</title>
 <p>f      f   1   -   =</p>
 <p>f      7   "   7   f</p>
 <p>f      3   "   =   "</p>
@@ -11761,7 +11760,7 @@
 <p>f      7   3   3   7            </p>
 </subsection>
                     <subsection>
-                        <title>f      =   =   f   f</title>
+                        <title>.= f</title>
 <p>f      -   3   =   -</p>
 <p>f      3   "   "   f</p>
 <p>f      -   =   "   3</p>
@@ -11788,7 +11787,7 @@
 <p>f      "   3   "   -            </p>
 </subsection>
                     <subsection>
-                        <title>g      3   -   3   "</title>
+                        <title>.= g</title>
 <p>g      3   7   -   -</p>
 <p>g      -   1   3   =</p>
 <p>g      g   g   g   =</p>
@@ -11815,7 +11814,7 @@
 <p>g      =   "   -   3            </p>
 </subsection>
                     <subsection>
-                        <title>g      7   3   1   -</title>
+                        <title>.= g</title>
 <p>g      =   1   g   g</p>
 <p>g      g   -   "   3</p>
 <p>g      1   7   3   3</p>
@@ -11842,7 +11841,7 @@
 <p>g      1   =   -   g            </p>
 </subsection>
                     <subsection>
-                        <title>g      -   -   =   1</title>
+                        <title>.= g</title>
 <p>g      1   =   1   7</p>
 <p>g      7   -   g   -</p>
 <p>g      "   -   "   -</p>
@@ -11869,7 +11868,7 @@
 <p>g      -   1   7   3            </p>
 </subsection>
                     <subsection>
-                        <title>g      "   "   -   g</title>
+                        <title>.= g</title>
 <p>g      "   -   -   g</p>
 <p>g      -   1   3   g</p>
 <p>g      1   -   =   "</p>
@@ -11896,7 +11895,7 @@
 <p>g      3   -   7   -            </p>
 </subsection>
                     <subsection>
-                        <title>h      "   3   h   -</title>
+                        <title>.= h</title>
 <p>h      7   -   h   7</p>
 <p>h      7   1   -   =</p>
 <p>h      7   -   h   3</p>
@@ -11923,7 +11922,7 @@
 <p>h      "   h   -   7            </p>
 </subsection>
                     <subsection>
-                        <title>h      =   7   h   =</title>
+                        <title>.= h</title>
 <p>h      3   -   h   1</p>
 <p>h      "   =   7   3</p>
 <p>h      =   3   =   -</p>
@@ -11950,7 +11949,7 @@
 <p>h      -   -   -   7            </p>
 </subsection>
                     <subsection>
-                        <title>h      3   1   7   h</title>
+                        <title>.= h</title>
 <p>h      1   1   "   "</p>
 <p>h      -   -   1   7</p>
 <p>h      7   3   -   3</p>
@@ -11977,7 +11976,7 @@
 <p>h      h   -   -   1            </p>
 </subsection>
                     <subsection>
-                        <title>h      -   1   3   3</title>
+                        <title>.= h</title>
 <p>h      =   =   h   =</p>
 <p>h      =   1   7   3</p>
 <p>h      3   7   7   1</p>
@@ -12004,7 +12003,7 @@
 <p>h      =   7   3   7            </p>
 </subsection>
                     <subsection>
-                        <title>i      i   i   3   3</title>
+                        <title>.= i</title>
 <p>i      =   1   i   =</p>
 <p>i      3   "   "   "</p>
 <p>i      "   i   1   7</p>
@@ -12031,7 +12030,7 @@
 <p>i      =   3   "   7            </p>
 </subsection>
                     <subsection>
-                        <title>i      =   1   3   7</title>
+                        <title>.= i</title>
 <p>i      =   3   1   "</p>
 <p>i      "   "   3   1</p>
 <p>i      7   =   i   3</p>
@@ -12058,7 +12057,7 @@
 <p>i      1   "   3   -            </p>
 </subsection>
                     <subsection>
-                        <title>i      3   i   =   7</title>
+                        <title>.= i</title>
 <p>i      7   =   1   i</p>
 <p>i      3   "   3   "</p>
 <p>i      7   =   i   -</p>
@@ -12085,7 +12084,7 @@
 <p>i      =   3   7   =            </p>
 </subsection>
                     <subsection>
-                        <title>i      1   =   3   1</title>
+                        <title>.= i</title>
 <p>i      1   3   1   =</p>
 <p>i      3   i   -   i</p>
 <p>i      1   1   "   1</p>
@@ -12112,7 +12111,7 @@
 <p>i      1   3   7   -            </p>
 </subsection>
                     <subsection>
-                        <title>j      1   =   -   -</title>
+                        <title>.= j</title>
 <p>j      -   =   "   7</p>
 <p>j      j   =   1   3</p>
 <p>j      "   j   =   1</p>
@@ -12139,7 +12138,7 @@
 <p>j      "   7   -   "            </p>
 </subsection>
                     <subsection>
-                        <title>j      j   j   3   1</title>
+                        <title>.= j</title>
 <p>j      -   1   3   1</p>
 <p>j      "   "   7   "</p>
 <p>j      7   "   j   7</p>
@@ -12166,7 +12165,7 @@
 <p>j      -   7   7   "            </p>
 </subsection>
                     <subsection>
-                        <title>j      1   1   1   1</title>
+                        <title>.= j</title>
 <p>j      -   3   3   3</p>
 <p>j      1   -   =   7</p>
 <p>j      7   "   =   7</p>
@@ -12193,7 +12192,7 @@
 <p>j      "   1   7   =            </p>
 </subsection>
                     <subsection>
-                        <title>j      =   "   7   j</title>
+                        <title>.= j</title>
 <p>j      "   7   3   j</p>
 <p>j      =   =   7   =</p>
 <p>j      7   j   -   3</p>
@@ -12220,7 +12219,7 @@
 <p>j      "   7   -   3            </p>
 </subsection>
                     <subsection>
-                        <title>k      =   "   "   -</title>
+                        <title>.= k</title>
 <p>k      3   -   1   -</p>
 <p>k      =   =   k   "</p>
 <p>k      =   3   -   3</p>
@@ -12247,7 +12246,7 @@
 <p>k      k   k   3   1            </p>
 </subsection>
                     <subsection>
-                        <title>k      "   3   k   3</title>
+                        <title>.= k</title>
 <p>k      "   "   1   7</p>
 <p>k      k   1   1   3</p>
 <p>k      7   =   k   "</p>
@@ -12274,7 +12273,7 @@
 <p>k      =   3   1   1            </p>
 </subsection>
                     <subsection>
-                        <title>k      "   k   -   k</title>
+                        <title>.= k</title>
 <p>k      -   1   k   "</p>
 <p>k      3   3   k   3</p>
 <p>k      1   3   3   3</p>
@@ -12301,7 +12300,7 @@
 <p>k      k   k   1   =            </p>
 </subsection>
                     <subsection>
-                        <title>k      k   k   3   -</title>
+                        <title>.= k</title>
 <p>k      7   k   =   =</p>
 <p>k      -   k   1   "</p>
 <p>k      7   "   1   1</p>
@@ -12328,7 +12327,7 @@
 <p>k      -   1   k   =            </p>
 </subsection>
                     <subsection>
-                        <title>l      =   l   "   1</title>
+                        <title>.= l</title>
 <p>l      =   -   -   1</p>
 <p>l      "   =   "   -</p>
 <p>l      l   -   1   l</p>
@@ -12355,7 +12354,7 @@
 <p>l      =   1   "   7            </p>
 </subsection>
                     <subsection>
-                        <title>l      1   1   7   7</title>
+                        <title>.= l</title>
 <p>l      l   =   3   =</p>
 <p>l      3   "   -   =</p>
 <p>l      "   "   7   -</p>
@@ -12382,7 +12381,7 @@
 <p>l      "   =   1   -            </p>
 </subsection>
                     <subsection>
-                        <title>l      l   "   =   l</title>
+                        <title>.= l</title>
 <p>l      =   =   1   -</p>
 <p>l      3   7   -   =</p>
 <p>l      l   7   1   3</p>
@@ -12409,7 +12408,7 @@
 <p>l      =   "   "   "            </p>
 </subsection>
                     <subsection>
-                        <title>l      =   "   7   3</title>
+                        <title>.= l</title>
 <p>l      "   -   l   "</p>
 <p>l      l   l   7   "</p>
 <p>l      7   1   1   l</p>
@@ -12436,7 +12435,7 @@
 <p>l      =   l   3   -            </p>
 </subsection>
                     <subsection>
-                        <title>m      -   =   =   "</title>
+                        <title>.= m</title>
 <p>m      m   =   -   "</p>
 <p>m      7   3   1   "</p>
 <p>m      "   3   =   "</p>
@@ -12463,7 +12462,7 @@
 <p>m      =   1   "   m            </p>
 </subsection>
                     <subsection>
-                        <title>m      1   -   7   "</title>
+                        <title>.= m</title>
 <p>m      "   1   -   "</p>
 <p>m      7   m   3   1</p>
 <p>m      7   1   3   1</p>
@@ -12490,7 +12489,7 @@
 <p>m      "   1   7   7            </p>
 </subsection>
                     <subsection>
-                        <title>m      7   m   7   3</title>
+                        <title>.= m</title>
 <p>m      "   m   =   7</p>
 <p>m      m   "   7   -</p>
 <p>m      7   3   m   3</p>
@@ -12517,7 +12516,7 @@
 <p>m      7   m   3   m            </p>
 </subsection>
                     <subsection>
-                        <title>m      =   "   -   =</title>
+                        <title>.= m</title>
 <p>m      m   -   m   m</p>
 <p>m      1   -   1   m</p>
 <p>m      3   "   =   3</p>
@@ -12544,7 +12543,7 @@
 <p>m      =   3   7   3            </p>
 </subsection>
                     <subsection>
-                        <title>n      7   3   =   n</title>
+                        <title>.= n</title>
 <p>n      =   3   =   7</p>
 <p>n      =   -   "   "</p>
 <p>n      3   -   =   =</p>
@@ -12571,7 +12570,7 @@
 <p>n      3   -   3   1            </p>
 </subsection>
                     <subsection>
-                        <title>n      n   "   -   "</title>
+                        <title>.= n</title>
 <p>n      7   "   "   n</p>
 <p>n      7   =   n   3</p>
 <p>n      -   n   1   7</p>
@@ -12598,7 +12597,7 @@
 <p>n      7   3   -   n            </p>
 </subsection>
                     <subsection>
-                        <title>n      -   1   1   7</title>
+                        <title>.= n</title>
 <p>n      7   7   1   1</p>
 <p>n      "   =   =   -</p>
 <p>n      n   -   7   "</p>
@@ -12625,7 +12624,7 @@
 <p>n      3   "   "   "            </p>
 </subsection>
                     <subsection>
-                        <title>n      7   -   1   =</title>
+                        <title>.= n</title>
 <p>n      -   3   =   3</p>
 <p>n      "   "   n   -</p>
 <p>n      1   n   n   7</p>
@@ -12652,7 +12651,7 @@
 <p>n      7   1   =   3            </p>
 </subsection>
                     <subsection>
-                        <title>o      =   =   3   "</title>
+                        <title>.= o</title>
 <p>o      1   3   "   3</p>
 <p>o      "   1   1   o</p>
 <p>o      "   =   1   "</p>
@@ -12679,7 +12678,7 @@
 <p>o      o   3   3   7            </p>
 </subsection>
                     <subsection>
-                        <title>o      -   3   1   1</title>
+                        <title>.= o</title>
 <p>o      -   7   -   7</p>
 <p>o      3   -   3   "</p>
 <p>o      "   o   3   o</p>
@@ -12706,7 +12705,7 @@
 <p>o      =   3   -   7            </p>
 </subsection>
                     <subsection>
-                        <title>o      7   7   o   3</title>
+                        <title>.= o</title>
 <p>o      -   7   1   1</p>
 <p>o      "   7   =   -</p>
 <p>o      =   3   =   3</p>
@@ -12733,7 +12732,7 @@
 <p>o      3   7   =   -            </p>
 </subsection>
                     <subsection>
-                        <title>o      =   7   o   1</title>
+                        <title>.= o</title>
 <p>o      3   -   1   3</p>
 <p>o      3   3   3   1</p>
 <p>o      1   "   o   "</p>
@@ -12760,7 +12759,7 @@
 <p>o      1   3   o   7            </p>
 </subsection>
                     <subsection>
-                        <title>p      -   =   3   "</title>
+                        <title>.= p</title>
 <p>p      =   "   "   3</p>
 <p>p      -   =   -   "</p>
 <p>p      3   3   -   3</p>
@@ -12787,7 +12786,7 @@
 <p>p      =   7   7   -            </p>
 </subsection>
                     <subsection>
-                        <title>p      1   7   -   7</title>
+                        <title>.= p</title>
 <p>p      7   =   1   p</p>
 <p>p      "   3   3   3</p>
 <p>p      =   "   3   =</p>
@@ -12814,7 +12813,7 @@
 <p>p      7   7   7   "            </p>
 </subsection>
                     <subsection>
-                        <title>p      "   7   p   1</title>
+                        <title>.= p</title>
 <p>p      1   1   7   =</p>
 <p>p      -   3   -   7</p>
 <p>p      3   -   1   1</p>
@@ -12841,7 +12840,7 @@
 <p>p      -   "   3   7            </p>
 </subsection>
                     <subsection>
-                        <title>p      p   p   =   -</title>
+                        <title>.= p</title>
 <p>p      p   -   =   1</p>
 <p>p      p   7   p   =</p>
 <p>p      7   p   3   =</p>
@@ -12868,7 +12867,7 @@
 <p>p      7   1   "   -            </p>
 </subsection>
                     <subsection>
-                        <title>q      =   q   3   "</title>
+                        <title>.= q</title>
 <p>q      "   1   q   7</p>
 <p>q      -   =   1   "</p>
 <p>q      3   q   "   3</p>
@@ -12895,7 +12894,7 @@
 <p>q      1   =   q   q            </p>
 </subsection>
                     <subsection>
-                        <title>q      7   1   -   -</title>
+                        <title>.= q</title>
 <p>q      1   "   1   3</p>
 <p>q      "   q   =   q</p>
 <p>q      =   -   =   =</p>
@@ -12922,7 +12921,7 @@
 <p>q      7   -   "   "            </p>
 </subsection>
                     <subsection>
-                        <title>q      7   q   -   =</title>
+                        <title>.= q</title>
 <p>q      "   q   q   -</p>
 <p>q      3   1   -   q</p>
 <p>q      3   =   7   "</p>
@@ -12949,7 +12948,7 @@
 <p>q      1   "   "   q            </p>
 </subsection>
                     <subsection>
-                        <title>q      3   q   7   q</title>
+                        <title>.= q</title>
 <p>q      "   1   7   =</p>
 <p>q      "   1   3   3</p>
 <p>q      q   7   3   7</p>
@@ -12976,7 +12975,7 @@
 <p>q      -   -   "   1            </p>
 </subsection>
                     <subsection>
-                        <title>r      =   3   -   r</title>
+                        <title>.= r</title>
 <p>r      r   r   -   1</p>
 <p>r      "   =   7   3</p>
 <p>r      r   =   7   -</p>
@@ -13003,7 +13002,7 @@
 <p>r      3   r   =   7            </p>
 </subsection>
                     <subsection>
-                        <title>r      7   -   -   r</title>
+                        <title>.= r</title>
 <p>r      7   7   "   3</p>
 <p>r      =   1   7   r</p>
 <p>r      7   =   -   7</p>
@@ -13030,7 +13029,7 @@
 <p>r      7   "   1   "            </p>
 </subsection>
                     <subsection>
-                        <title>r      =   =   7   3</title>
+                        <title>.= r</title>
 <p>r      "   "   "   r</p>
 <p>r      =   7   -   =</p>
 <p>r      7   r   1   =</p>
@@ -13057,7 +13056,7 @@
 <p>r      =   1   =   =            </p>
 </subsection>
                     <subsection>
-                        <title>r      "   3   -   r</title>
+                        <title>.= r</title>
 <p>r      3   3   1   -</p>
 <p>r      1   =   3   3</p>
 <p>r      -   -   1   -</p>
@@ -13084,7 +13083,7 @@
 <p>r      7   =   =   -            </p>
 </subsection>
                     <subsection>
-                        <title>s      =   s   1   3</title>
+                        <title>.= s</title>
 <p>s      s   1   s   "</p>
 <p>s      =   -   =   3</p>
 <p>s      7   1   "   s</p>
@@ -13111,7 +13110,7 @@
 <p>s      3   -   7   3            </p>
 </subsection>
                     <subsection>
-                        <title>s      -   =   =   -</title>
+                        <title>.= s</title>
 <p>s      =   "   3   3</p>
 <p>s      s   "   7   "</p>
 <p>s      "   s   s   -</p>
@@ -13138,7 +13137,7 @@
 <p>s      3   1   1   3            </p>
 </subsection>
                     <subsection>
-                        <title>s      7   3   3   -</title>
+                        <title>.= s</title>
 <p>s      1   7   =   -</p>
 <p>s      -   s   =   1</p>
 <p>s      =   s   -   s</p>
@@ -13165,7 +13164,7 @@
 <p>s      7   s   1   -            </p>
 </subsection>
                     <subsection>
-                        <title>s      -   -   3   "</title>
+                        <title>.= s</title>
 <p>s      3   3   3   1</p>
 <p>s      =   3   1   3</p>
 <p>s      =   -   =   =</p>
@@ -13192,7 +13191,7 @@
 <p>s      "   s   s   "            </p>
 </subsection>
                     <subsection>
-                        <title>t      7   -   t   3</title>
+                        <title>.= t</title>
 <p>t      t   "   3   "</p>
 <p>t      1   -   =   "</p>
 <p>t      "   =   "   7</p>
@@ -13219,7 +13218,7 @@
 <p>t      3   7   =   =            </p>
 </subsection>
                     <subsection>
-                        <title>t      7   7   7   3</title>
+                        <title>.= t</title>
 <p>t      t   -   -   -</p>
 <p>t      -   =   "   -</p>
 <p>t      t   t   =   "</p>
@@ -13246,7 +13245,7 @@
 <p>t      7   7   3   t            </p>
 </subsection>
                     <subsection>
-                        <title>t      "   3   7   t</title>
+                        <title>.= t</title>
 <p>t      =   3   1   =</p>
 <p>t      7   "   t   1</p>
 <p>t      3   3   7   -</p>
@@ -13273,7 +13272,7 @@
 <p>t      1   =   -   "            </p>
 </subsection>
                     <subsection>
-                        <title>t      3   =   "   3</title>
+                        <title>.= t</title>
 <p>t      7   =   "   "</p>
 <p>t      t   3   7   1</p>
 <p>t      7   3   "   -</p>
@@ -13300,7 +13299,7 @@
 <p>t      7   "   -   3            </p>
 </subsection>
                     <subsection>
-                        <title>u      =   7   "   "</title>
+                        <title>.= u</title>
 <p>u      =   1   3   "</p>
 <p>u      1   u   =   "</p>
 <p>u      7   1   -   -</p>
@@ -13327,7 +13326,7 @@
 <p>u      =   "   =   7            </p>
 </subsection>
                     <subsection>
-                        <title>u      "   7   "   u</title>
+                        <title>.= u</title>
 <p>u      1   =   -   -</p>
 <p>u      3   u   =   u</p>
 <p>u      u   "   1   7</p>
@@ -13354,7 +13353,7 @@
 <p>u      u   =   =   "            </p>
 </subsection>
                     <subsection>
-                        <title>u      "   =   -   u</title>
+                        <title>.= u</title>
 <p>u      7   1   u   "</p>
 <p>u      -   -   7   1</p>
 <p>u      "   1   u   -</p>
@@ -13381,7 +13380,7 @@
 <p>u      1   "   =   u            </p>
 </subsection>
                     <subsection>
-                        <title>u      "   7   3   "</title>
+                        <title>.= u</title>
 <p>u      =   1   =   1</p>
 <p>u      "   1   -   7</p>
 <p>u      3   u   "   3</p>
@@ -13408,7 +13407,7 @@
 <p>u      7   u   "   "            </p>
 </subsection>
                     <subsection>
-                        <title>v      -   3   =   1</title>
+                        <title>.= v</title>
 <p>v      1   -   =   1</p>
 <p>v      -   =   3   v</p>
 <p>v      "   -   7   =</p>
@@ -13435,7 +13434,7 @@
 <p>v      -   3   =   "            </p>
 </subsection>
                     <subsection>
-                        <title>v      v   -   1   3</title>
+                        <title>.= v</title>
 <p>v      3   -   3   "</p>
 <p>v      =   "   =   3</p>
 <p>v      =   "   =   3</p>
@@ -13462,7 +13461,7 @@
 <p>v      1   1   1   v            </p>
 </subsection>
                     <subsection>
-                        <title>v      =   -   1   "</title>
+                        <title>.= v</title>
 <p>v      "   1   -   -</p>
 <p>v      v   v   v   "</p>
 <p>v      "   1   -   -</p>
@@ -13489,7 +13488,7 @@
 <p>v      "   3   3   1            </p>
 </subsection>
                     <subsection>
-                        <title>v      "   v   v   3</title>
+                        <title>.= v</title>
 <p>v      "   -   "   3</p>
 <p>v      -   1   7   1</p>
 <p>v      =   1   -   3</p>
@@ -13516,7 +13515,7 @@
 <p>v      v   1   7   -            </p>
 </subsection>
                     <subsection>
-                        <title>w      7   -   -   7</title>
+                        <title>.= w</title>
 <p>w      w   7   "   3</p>
 <p>w      =   3   3   3</p>
 <p>w      =   3   -   -</p>
@@ -13543,7 +13542,7 @@
 <p>w      =   3   -   -            </p>
 </subsection>
                     <subsection>
-                        <title>w      -   7   =   -</title>
+                        <title>.= w</title>
 <p>w      3   "   3   "</p>
 <p>w      7   7   -   3</p>
 <p>w      7   3   "   w</p>
@@ -13570,7 +13569,7 @@
 <p>w      =   -   "   7            </p>
 </subsection>
                     <subsection>
-                        <title>w      -   =   1   w</title>
+                        <title>.= w</title>
 <p>w      w   "   1   1</p>
 <p>w      3   =   7   1</p>
 <p>w      w   7   -   "</p>
@@ -13597,7 +13596,7 @@
 <p>w      -   "   3   3            </p>
 </subsection>
                     <subsection>
-                        <title>w      "   -   "   1</title>
+                        <title>.= w</title>
 <p>w      3   =   w   1</p>
 <p>w      "   3   w   "</p>
 <p>w      7   1   w   w</p>
@@ -13624,7 +13623,7 @@
 <p>w      1   7   3   7            </p>
 </subsection>
                     <subsection>
-                        <title>x      7   7   x   "</title>
+                        <title>.= x</title>
 <p>x      1   7   1   =</p>
 <p>x      "   "   3   1</p>
 <p>x      -   -   7   "</p>
@@ -13651,7 +13650,7 @@
 <p>x      x   =   =   3            </p>
 </subsection>
                     <subsection>
-                        <title>x      3   -   7   3</title>
+                        <title>.= x</title>
 <p>x      7   3   "   3</p>
 <p>x      "   "   x   "</p>
 <p>x      -   x   x   1</p>
@@ -13678,7 +13677,7 @@
 <p>x      1   "   -   =            </p>
 </subsection>
                     <subsection>
-                        <title>x      3   "   x   -</title>
+                        <title>.= x</title>
 <p>x      x   x   7   3</p>
 <p>x      "   x   "   -</p>
 <p>x      x   -   7   1</p>
@@ -13705,7 +13704,7 @@
 <p>x      1   7   =   -            </p>
 </subsection>
                     <subsection>
-                        <title>x      7   1   -   3</title>
+                        <title>.= x</title>
 <p>x      "   "   1   -</p>
 <p>x      "   =   =   7</p>
 <p>x      "   -   1   1</p>
@@ -13732,7 +13731,7 @@
 <p>x      "   7   x   -            </p>
 </subsection>
                     <subsection>
-                        <title>y      "   =   1   y</title>
+                        <title>.= y</title>
 <p>y      y   1   3   y</p>
 <p>y      "   -   1   1</p>
 <p>y      7   "   "   1</p>
@@ -13759,7 +13758,7 @@
 <p>y      3   y   -   -            </p>
 </subsection>
                     <subsection>
-                        <title>y      1   =   7   3</title>
+                        <title>.= y</title>
 <p>y      3   1   7   3</p>
 <p>y      =   y   3   =</p>
 <p>y      3   3   7   7</p>
@@ -13786,7 +13785,7 @@
 <p>y      "   "   -   3            </p>
 </subsection>
                     <subsection>
-                        <title>y      "   3   3   3</title>
+                        <title>.= y</title>
 <p>y      y   =   -   7</p>
 <p>y      y   3   -   "</p>
 <p>y      1   1   -   -</p>
@@ -13813,7 +13812,7 @@
 <p>y      y   "   3   "            </p>
 </subsection>
                     <subsection>
-                        <title>y      =   -   "   "</title>
+                        <title>.= y</title>
 <p>y      =   1   1   1</p>
 <p>y      7   y   -   1</p>
 <p>y      7   y   7   =</p>
@@ -13840,7 +13839,7 @@
 <p>y      "   1   1   7            </p>
 </subsection>
                     <subsection>
-                        <title>z      7   =   "   z</title>
+                        <title>.= z</title>
 <p>z      3   1   =   "</p>
 <p>z      1   =   -   1</p>
 <p>z      -   "   -   =</p>
@@ -13867,7 +13866,7 @@
 <p>z      =   1   3   z            </p>
 </subsection>
                     <subsection>
-                        <title>z      -   z   7   -</title>
+                        <title>.= z</title>
 <p>z      z   1   1   "</p>
 <p>z      z   3   z   3</p>
 <p>z      =   3   =   =</p>
@@ -13894,7 +13893,7 @@
 <p>z      =   7   z   3            </p>
 </subsection>
                     <subsection>
-                        <title>z      "   7   z   1</title>
+                        <title>.= z</title>
 <p>z      "   "   z   1</p>
 <p>z      -   7   z   =</p>
 <p>z      7   z   1   z</p>
@@ -13921,7 +13920,7 @@
 <p>z      z   =   z   1            </p>
 </subsection>
                     <subsection>
-                        <title>z      -   7   -   z</title>
+                        <title>.= z</title>
 <p>z      "   "   7   -</p>
 <p>z      -   -   z   7</p>
 <p>z      z   z   3   1</p>
