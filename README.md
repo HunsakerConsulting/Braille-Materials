@@ -13,5 +13,7 @@ Available Sites:
 
 [Assistive Technology Lesson Plans](https://hunsakerconsulting.github.io/Braille-Materials/LessonPlans-Technology) **IN PROGRESS**
 
+[Phonemic Awareness Practice](https://hunsakerconsulting.github.io/Braille-Materials/PhonemicAwareness/book-1.html) **IN PROGRESS**
+
 
 
